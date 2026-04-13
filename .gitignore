@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+venv/
+
+# Sensitive files
+serviceAccountKey.json
+.env
+frontend/app/firebase.ts
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Expo
+.expo/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Misc
+*.log

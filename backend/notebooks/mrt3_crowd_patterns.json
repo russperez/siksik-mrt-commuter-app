@@ -1,0 +1,6762 @@
+{
+  "North Avenue": {
+    "Monday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 72,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 72,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 67,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "14": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "15": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "16": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "17": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Quezon Avenue": {
+    "Monday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 57,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 47,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 52,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Kamuning": {
+    "Monday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "18": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "18": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "19": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "20": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Araneta Center-Cubao": {
+    "Monday": {
+      "5": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 88,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 44,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 88,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 100,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 92,
+        "label": "Siksik na!"
+      },
+      "9": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 100,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 83,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 100,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 92,
+        "label": "Siksik na!"
+      },
+      "9": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 100,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 83,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 98,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 90,
+        "label": "Siksik na!"
+      },
+      "9": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 98,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 90,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 83,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 90,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "13": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "14": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "15": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "16": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "17": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "14": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "15": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "16": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "17": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Santolan-Annapolis": {
+    "Monday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 57,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 47,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 52,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Ortigas": {
+    "Monday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 67,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 67,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 71,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 65,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 71,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 59,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Shaw Boulevard": {
+    "Monday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 57,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 47,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 52,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Boni": {
+    "Monday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "18": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 3,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "18": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "19": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "20": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Guadalupe": {
+    "Monday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 57,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 47,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 52,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Buendia": {
+    "Monday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 64,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 57,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 47,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 52,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 10,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 53,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 29,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 58,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 43,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Ayala": {
+    "Monday": {
+      "5": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 73,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 91,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 83,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 91,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 91,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 83,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 91,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 76,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 89,
+        "label": "Siksik na!"
+      },
+      "8": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 67,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 89,
+        "label": "Siksik na!"
+      },
+      "19": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 69,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 46,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "13": {
+        "busyness": 70,
+        "label": "Siksik"
+      },
+      "14": {
+        "busyness": 70,
+        "label": "Siksik"
+      },
+      "15": {
+        "busyness": 70,
+        "label": "Siksik"
+      },
+      "16": {
+        "busyness": 70,
+        "label": "Siksik"
+      },
+      "17": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 38,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 44,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Magallanes": {
+    "Monday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 44,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 48,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 50,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 55,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 22,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "8": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "9": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 16,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 5,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 32,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 9,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 4,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 15,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "18": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "19": {
+        "busyness": 26,
+        "label": "Sakay na!"
+      },
+      "20": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 8,
+        "label": "Sakay na!"
+      }
+    }
+  },
+  "Taft Avenue": {
+    "Monday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 72,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 66,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 36,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "13": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 24,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 54,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 72,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 30,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 18,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Tuesday": {
+      "5": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Wednesday": {
+      "5": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 75,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 41,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 61,
+        "label": "Siksik"
+      },
+      "18": {
+        "busyness": 82,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Thursday": {
+      "5": {
+        "busyness": 13,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 40,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 27,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 60,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 80,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 67,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 33,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 20,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      }
+    },
+    "Friday": {
+      "5": {
+        "busyness": 12,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "7": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "8": {
+        "busyness": 68,
+        "label": "Siksik"
+      },
+      "9": {
+        "busyness": 37,
+        "label": "Medyo siksik"
+      },
+      "10": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "12": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "14": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "15": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "16": {
+        "busyness": 25,
+        "label": "Sakay na!"
+      },
+      "17": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 74,
+        "label": "Siksik"
+      },
+      "19": {
+        "busyness": 62,
+        "label": "Siksik"
+      },
+      "20": {
+        "busyness": 31,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 19,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      }
+    },
+    "Saturday": {
+      "5": {
+        "busyness": 7,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "11": {
+        "busyness": 42,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "14": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "15": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "16": {
+        "busyness": 63,
+        "label": "Siksik"
+      },
+      "17": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 56,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 49,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 35,
+        "label": "Medyo siksik"
+      },
+      "21": {
+        "busyness": 21,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 14,
+        "label": "Sakay na!"
+      }
+    },
+    "Sunday": {
+      "5": {
+        "busyness": 6,
+        "label": "Sakay na!"
+      },
+      "6": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "7": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      },
+      "8": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "9": {
+        "busyness": 23,
+        "label": "Sakay na!"
+      },
+      "10": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "11": {
+        "busyness": 34,
+        "label": "Medyo siksik"
+      },
+      "12": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "13": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "14": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "15": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "16": {
+        "busyness": 51,
+        "label": "Medyo siksik"
+      },
+      "17": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "18": {
+        "busyness": 45,
+        "label": "Medyo siksik"
+      },
+      "19": {
+        "busyness": 39,
+        "label": "Medyo siksik"
+      },
+      "20": {
+        "busyness": 28,
+        "label": "Sakay na!"
+      },
+      "21": {
+        "busyness": 17,
+        "label": "Sakay na!"
+      },
+      "22": {
+        "busyness": 11,
+        "label": "Sakay na!"
+      }
+    }
+  }
+}

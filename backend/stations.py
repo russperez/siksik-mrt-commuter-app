@@ -1,0 +1,15 @@
+STATIONS = [
+    {"id": "north_avenue", "name": "North Avenue", "city": "Quezon City"},
+    {"id": "quezon_avenue", "name": "Quezon Avenue", "city": "Quezon City"},
+    {"id": "kamuning", "name": "Kamuning", "city": "Quezon City"},
+    {"id": "cubao", "name": "Araneta Center-Cubao", "city": "Quezon City"},
+    {"id": "santolan", "name": "Santolan-Annapolis", "city": "San Juan"},
+    {"id": "ortigas", "name": "Ortigas", "city": "Mandaluyong"},
+    {"id": "shaw", "name": "Shaw Boulevard", "city": "Mandaluyong"},
+    {"id": "boni", "name": "Boni", "city": "Mandaluyong"},
+    {"id": "guadalupe", "name": "Guadalupe", "city": "Makati"},
+    {"id": "buendia", "name": "Buendia", "city": "Makati"},
+    {"id": "ayala", "name": "Ayala", "city": "Makati"},
+    {"id": "magallanes", "name": "Magallanes", "city": "Makati"},
+    {"id": "taft", "name": "Taft Avenue", "city": "Pasay"},
+]

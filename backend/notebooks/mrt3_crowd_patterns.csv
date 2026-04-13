@@ -1,0 +1,1639 @@
+station,hour,hour_label,day,busyness,crowd_label
+North Avenue,5,5:00 AM,Monday,12,Not busy
+North Avenue,6,6:00 AM,Monday,30,Not busy
+North Avenue,7,7:00 AM,Monday,72,Busy
+North Avenue,8,8:00 AM,Monday,66,Busy
+North Avenue,9,9:00 AM,Monday,36,Moderately busy
+North Avenue,10,10:00 AM,Monday,24,Not busy
+North Avenue,11,11:00 AM,Monday,18,Not busy
+North Avenue,12,12:00 PM,Monday,30,Not busy
+North Avenue,13,13:00 PM,Monday,24,Not busy
+North Avenue,14,14:00 PM,Monday,18,Not busy
+North Avenue,15,15:00 PM,Monday,18,Not busy
+North Avenue,16,16:00 PM,Monday,24,Not busy
+North Avenue,17,17:00 PM,Monday,54,Moderately busy
+North Avenue,18,18:00 PM,Monday,72,Busy
+North Avenue,19,19:00 PM,Monday,60,Moderately busy
+North Avenue,20,20:00 PM,Monday,30,Not busy
+North Avenue,21,21:00 PM,Monday,18,Not busy
+North Avenue,22,22:00 PM,Monday,6,Not busy
+North Avenue,5,5:00 AM,Tuesday,14,Not busy
+North Avenue,6,6:00 AM,Tuesday,34,Moderately busy
+North Avenue,7,7:00 AM,Tuesday,82,Busy
+North Avenue,8,8:00 AM,Tuesday,75,Busy
+North Avenue,9,9:00 AM,Tuesday,41,Moderately busy
+North Avenue,10,10:00 AM,Tuesday,27,Not busy
+North Avenue,11,11:00 AM,Tuesday,20,Not busy
+North Avenue,12,12:00 PM,Tuesday,34,Moderately busy
+North Avenue,13,13:00 PM,Tuesday,27,Not busy
+North Avenue,14,14:00 PM,Tuesday,20,Not busy
+North Avenue,15,15:00 PM,Tuesday,20,Not busy
+North Avenue,16,16:00 PM,Tuesday,27,Not busy
+North Avenue,17,17:00 PM,Tuesday,61,Busy
+North Avenue,18,18:00 PM,Tuesday,82,Busy
+North Avenue,19,19:00 PM,Tuesday,68,Busy
+North Avenue,20,20:00 PM,Tuesday,34,Moderately busy
+North Avenue,21,21:00 PM,Tuesday,20,Not busy
+North Avenue,22,22:00 PM,Tuesday,7,Not busy
+North Avenue,5,5:00 AM,Wednesday,14,Not busy
+North Avenue,6,6:00 AM,Wednesday,34,Moderately busy
+North Avenue,7,7:00 AM,Wednesday,82,Busy
+North Avenue,8,8:00 AM,Wednesday,75,Busy
+North Avenue,9,9:00 AM,Wednesday,41,Moderately busy
+North Avenue,10,10:00 AM,Wednesday,27,Not busy
+North Avenue,11,11:00 AM,Wednesday,20,Not busy
+North Avenue,12,12:00 PM,Wednesday,34,Moderately busy
+North Avenue,13,13:00 PM,Wednesday,27,Not busy
+North Avenue,14,14:00 PM,Wednesday,20,Not busy
+North Avenue,15,15:00 PM,Wednesday,20,Not busy
+North Avenue,16,16:00 PM,Wednesday,27,Not busy
+North Avenue,17,17:00 PM,Wednesday,61,Busy
+North Avenue,18,18:00 PM,Wednesday,82,Busy
+North Avenue,19,19:00 PM,Wednesday,68,Busy
+North Avenue,20,20:00 PM,Wednesday,34,Moderately busy
+North Avenue,21,21:00 PM,Wednesday,20,Not busy
+North Avenue,22,22:00 PM,Wednesday,7,Not busy
+North Avenue,5,5:00 AM,Thursday,13,Not busy
+North Avenue,6,6:00 AM,Thursday,33,Moderately busy
+North Avenue,7,7:00 AM,Thursday,80,Busy
+North Avenue,8,8:00 AM,Thursday,74,Busy
+North Avenue,9,9:00 AM,Thursday,40,Moderately busy
+North Avenue,10,10:00 AM,Thursday,27,Not busy
+North Avenue,11,11:00 AM,Thursday,20,Not busy
+North Avenue,12,12:00 PM,Thursday,33,Moderately busy
+North Avenue,13,13:00 PM,Thursday,27,Not busy
+North Avenue,14,14:00 PM,Thursday,20,Not busy
+North Avenue,15,15:00 PM,Thursday,20,Not busy
+North Avenue,16,16:00 PM,Thursday,27,Not busy
+North Avenue,17,17:00 PM,Thursday,60,Moderately busy
+North Avenue,18,18:00 PM,Thursday,80,Busy
+North Avenue,19,19:00 PM,Thursday,67,Busy
+North Avenue,20,20:00 PM,Thursday,33,Moderately busy
+North Avenue,21,21:00 PM,Thursday,20,Not busy
+North Avenue,22,22:00 PM,Thursday,7,Not busy
+North Avenue,5,5:00 AM,Friday,12,Not busy
+North Avenue,6,6:00 AM,Friday,31,Moderately busy
+North Avenue,7,7:00 AM,Friday,74,Busy
+North Avenue,8,8:00 AM,Friday,68,Busy
+North Avenue,9,9:00 AM,Friday,37,Moderately busy
+North Avenue,10,10:00 AM,Friday,25,Not busy
+North Avenue,11,11:00 AM,Friday,19,Not busy
+North Avenue,12,12:00 PM,Friday,31,Moderately busy
+North Avenue,13,13:00 PM,Friday,25,Not busy
+North Avenue,14,14:00 PM,Friday,19,Not busy
+North Avenue,15,15:00 PM,Friday,19,Not busy
+North Avenue,16,16:00 PM,Friday,25,Not busy
+North Avenue,17,17:00 PM,Friday,56,Moderately busy
+North Avenue,18,18:00 PM,Friday,74,Busy
+North Avenue,19,19:00 PM,Friday,62,Busy
+North Avenue,20,20:00 PM,Friday,31,Moderately busy
+North Avenue,21,21:00 PM,Friday,19,Not busy
+North Avenue,22,22:00 PM,Friday,6,Not busy
+North Avenue,5,5:00 AM,Saturday,7,Not busy
+North Avenue,6,6:00 AM,Saturday,14,Not busy
+North Avenue,7,7:00 AM,Saturday,14,Not busy
+North Avenue,8,8:00 AM,Saturday,21,Not busy
+North Avenue,9,9:00 AM,Saturday,28,Not busy
+North Avenue,10,10:00 AM,Saturday,35,Moderately busy
+North Avenue,11,11:00 AM,Saturday,42,Moderately busy
+North Avenue,12,12:00 PM,Saturday,56,Moderately busy
+North Avenue,13,13:00 PM,Saturday,63,Busy
+North Avenue,14,14:00 PM,Saturday,63,Busy
+North Avenue,15,15:00 PM,Saturday,63,Busy
+North Avenue,16,16:00 PM,Saturday,63,Busy
+North Avenue,17,17:00 PM,Saturday,56,Moderately busy
+North Avenue,18,18:00 PM,Saturday,56,Moderately busy
+North Avenue,19,19:00 PM,Saturday,49,Moderately busy
+North Avenue,20,20:00 PM,Saturday,35,Moderately busy
+North Avenue,21,21:00 PM,Saturday,21,Not busy
+North Avenue,22,22:00 PM,Saturday,14,Not busy
+North Avenue,5,5:00 AM,Sunday,6,Not busy
+North Avenue,6,6:00 AM,Sunday,11,Not busy
+North Avenue,7,7:00 AM,Sunday,11,Not busy
+North Avenue,8,8:00 AM,Sunday,17,Not busy
+North Avenue,9,9:00 AM,Sunday,23,Not busy
+North Avenue,10,10:00 AM,Sunday,28,Not busy
+North Avenue,11,11:00 AM,Sunday,34,Moderately busy
+North Avenue,12,12:00 PM,Sunday,45,Moderately busy
+North Avenue,13,13:00 PM,Sunday,51,Moderately busy
+North Avenue,14,14:00 PM,Sunday,51,Moderately busy
+North Avenue,15,15:00 PM,Sunday,51,Moderately busy
+North Avenue,16,16:00 PM,Sunday,51,Moderately busy
+North Avenue,17,17:00 PM,Sunday,45,Moderately busy
+North Avenue,18,18:00 PM,Sunday,45,Moderately busy
+North Avenue,19,19:00 PM,Sunday,39,Moderately busy
+North Avenue,20,20:00 PM,Sunday,28,Not busy
+North Avenue,21,21:00 PM,Sunday,17,Not busy
+North Avenue,22,22:00 PM,Sunday,11,Not busy
+Quezon Avenue,5,5:00 AM,Monday,9,Not busy
+Quezon Avenue,6,6:00 AM,Monday,23,Not busy
+Quezon Avenue,7,7:00 AM,Monday,56,Moderately busy
+Quezon Avenue,8,8:00 AM,Monday,51,Moderately busy
+Quezon Avenue,9,9:00 AM,Monday,28,Not busy
+Quezon Avenue,10,10:00 AM,Monday,19,Not busy
+Quezon Avenue,11,11:00 AM,Monday,14,Not busy
+Quezon Avenue,12,12:00 PM,Monday,23,Not busy
+Quezon Avenue,13,13:00 PM,Monday,19,Not busy
+Quezon Avenue,14,14:00 PM,Monday,14,Not busy
+Quezon Avenue,15,15:00 PM,Monday,14,Not busy
+Quezon Avenue,16,16:00 PM,Monday,19,Not busy
+Quezon Avenue,17,17:00 PM,Monday,42,Moderately busy
+Quezon Avenue,18,18:00 PM,Monday,56,Moderately busy
+Quezon Avenue,19,19:00 PM,Monday,46,Moderately busy
+Quezon Avenue,20,20:00 PM,Monday,23,Not busy
+Quezon Avenue,21,21:00 PM,Monday,14,Not busy
+Quezon Avenue,22,22:00 PM,Monday,5,Not busy
+Quezon Avenue,5,5:00 AM,Tuesday,11,Not busy
+Quezon Avenue,6,6:00 AM,Tuesday,27,Not busy
+Quezon Avenue,7,7:00 AM,Tuesday,64,Busy
+Quezon Avenue,8,8:00 AM,Tuesday,58,Moderately busy
+Quezon Avenue,9,9:00 AM,Tuesday,32,Moderately busy
+Quezon Avenue,10,10:00 AM,Tuesday,21,Not busy
+Quezon Avenue,11,11:00 AM,Tuesday,16,Not busy
+Quezon Avenue,12,12:00 PM,Tuesday,27,Not busy
+Quezon Avenue,13,13:00 PM,Tuesday,21,Not busy
+Quezon Avenue,14,14:00 PM,Tuesday,16,Not busy
+Quezon Avenue,15,15:00 PM,Tuesday,16,Not busy
+Quezon Avenue,16,16:00 PM,Tuesday,21,Not busy
+Quezon Avenue,17,17:00 PM,Tuesday,48,Moderately busy
+Quezon Avenue,18,18:00 PM,Tuesday,64,Busy
+Quezon Avenue,19,19:00 PM,Tuesday,53,Moderately busy
+Quezon Avenue,20,20:00 PM,Tuesday,27,Not busy
+Quezon Avenue,21,21:00 PM,Tuesday,16,Not busy
+Quezon Avenue,22,22:00 PM,Tuesday,5,Not busy
+Quezon Avenue,5,5:00 AM,Wednesday,11,Not busy
+Quezon Avenue,6,6:00 AM,Wednesday,27,Not busy
+Quezon Avenue,7,7:00 AM,Wednesday,64,Busy
+Quezon Avenue,8,8:00 AM,Wednesday,58,Moderately busy
+Quezon Avenue,9,9:00 AM,Wednesday,32,Moderately busy
+Quezon Avenue,10,10:00 AM,Wednesday,21,Not busy
+Quezon Avenue,11,11:00 AM,Wednesday,16,Not busy
+Quezon Avenue,12,12:00 PM,Wednesday,27,Not busy
+Quezon Avenue,13,13:00 PM,Wednesday,21,Not busy
+Quezon Avenue,14,14:00 PM,Wednesday,16,Not busy
+Quezon Avenue,15,15:00 PM,Wednesday,16,Not busy
+Quezon Avenue,16,16:00 PM,Wednesday,21,Not busy
+Quezon Avenue,17,17:00 PM,Wednesday,48,Moderately busy
+Quezon Avenue,18,18:00 PM,Wednesday,64,Busy
+Quezon Avenue,19,19:00 PM,Wednesday,53,Moderately busy
+Quezon Avenue,20,20:00 PM,Wednesday,27,Not busy
+Quezon Avenue,21,21:00 PM,Wednesday,16,Not busy
+Quezon Avenue,22,22:00 PM,Wednesday,5,Not busy
+Quezon Avenue,5,5:00 AM,Thursday,10,Not busy
+Quezon Avenue,6,6:00 AM,Thursday,26,Not busy
+Quezon Avenue,7,7:00 AM,Thursday,62,Busy
+Quezon Avenue,8,8:00 AM,Thursday,57,Moderately busy
+Quezon Avenue,9,9:00 AM,Thursday,31,Moderately busy
+Quezon Avenue,10,10:00 AM,Thursday,21,Not busy
+Quezon Avenue,11,11:00 AM,Thursday,16,Not busy
+Quezon Avenue,12,12:00 PM,Thursday,26,Not busy
+Quezon Avenue,13,13:00 PM,Thursday,21,Not busy
+Quezon Avenue,14,14:00 PM,Thursday,16,Not busy
+Quezon Avenue,15,15:00 PM,Thursday,16,Not busy
+Quezon Avenue,16,16:00 PM,Thursday,21,Not busy
+Quezon Avenue,17,17:00 PM,Thursday,47,Moderately busy
+Quezon Avenue,18,18:00 PM,Thursday,62,Busy
+Quezon Avenue,19,19:00 PM,Thursday,52,Moderately busy
+Quezon Avenue,20,20:00 PM,Thursday,26,Not busy
+Quezon Avenue,21,21:00 PM,Thursday,16,Not busy
+Quezon Avenue,22,22:00 PM,Thursday,5,Not busy
+Quezon Avenue,5,5:00 AM,Friday,10,Not busy
+Quezon Avenue,6,6:00 AM,Friday,24,Not busy
+Quezon Avenue,7,7:00 AM,Friday,58,Moderately busy
+Quezon Avenue,8,8:00 AM,Friday,53,Moderately busy
+Quezon Avenue,9,9:00 AM,Friday,29,Not busy
+Quezon Avenue,10,10:00 AM,Friday,19,Not busy
+Quezon Avenue,11,11:00 AM,Friday,14,Not busy
+Quezon Avenue,12,12:00 PM,Friday,24,Not busy
+Quezon Avenue,13,13:00 PM,Friday,19,Not busy
+Quezon Avenue,14,14:00 PM,Friday,14,Not busy
+Quezon Avenue,15,15:00 PM,Friday,14,Not busy
+Quezon Avenue,16,16:00 PM,Friday,19,Not busy
+Quezon Avenue,17,17:00 PM,Friday,43,Moderately busy
+Quezon Avenue,18,18:00 PM,Friday,58,Moderately busy
+Quezon Avenue,19,19:00 PM,Friday,48,Moderately busy
+Quezon Avenue,20,20:00 PM,Friday,24,Not busy
+Quezon Avenue,21,21:00 PM,Friday,14,Not busy
+Quezon Avenue,22,22:00 PM,Friday,5,Not busy
+Quezon Avenue,5,5:00 AM,Saturday,5,Not busy
+Quezon Avenue,6,6:00 AM,Saturday,11,Not busy
+Quezon Avenue,7,7:00 AM,Saturday,11,Not busy
+Quezon Avenue,8,8:00 AM,Saturday,16,Not busy
+Quezon Avenue,9,9:00 AM,Saturday,22,Not busy
+Quezon Avenue,10,10:00 AM,Saturday,27,Not busy
+Quezon Avenue,11,11:00 AM,Saturday,32,Moderately busy
+Quezon Avenue,12,12:00 PM,Saturday,43,Moderately busy
+Quezon Avenue,13,13:00 PM,Saturday,49,Moderately busy
+Quezon Avenue,14,14:00 PM,Saturday,49,Moderately busy
+Quezon Avenue,15,15:00 PM,Saturday,49,Moderately busy
+Quezon Avenue,16,16:00 PM,Saturday,49,Moderately busy
+Quezon Avenue,17,17:00 PM,Saturday,43,Moderately busy
+Quezon Avenue,18,18:00 PM,Saturday,43,Moderately busy
+Quezon Avenue,19,19:00 PM,Saturday,38,Moderately busy
+Quezon Avenue,20,20:00 PM,Saturday,27,Not busy
+Quezon Avenue,21,21:00 PM,Saturday,16,Not busy
+Quezon Avenue,22,22:00 PM,Saturday,11,Not busy
+Quezon Avenue,5,5:00 AM,Sunday,4,Not busy
+Quezon Avenue,6,6:00 AM,Sunday,9,Not busy
+Quezon Avenue,7,7:00 AM,Sunday,9,Not busy
+Quezon Avenue,8,8:00 AM,Sunday,13,Not busy
+Quezon Avenue,9,9:00 AM,Sunday,18,Not busy
+Quezon Avenue,10,10:00 AM,Sunday,22,Not busy
+Quezon Avenue,11,11:00 AM,Sunday,26,Not busy
+Quezon Avenue,12,12:00 PM,Sunday,35,Moderately busy
+Quezon Avenue,13,13:00 PM,Sunday,39,Moderately busy
+Quezon Avenue,14,14:00 PM,Sunday,39,Moderately busy
+Quezon Avenue,15,15:00 PM,Sunday,39,Moderately busy
+Quezon Avenue,16,16:00 PM,Sunday,39,Moderately busy
+Quezon Avenue,17,17:00 PM,Sunday,35,Moderately busy
+Quezon Avenue,18,18:00 PM,Sunday,35,Moderately busy
+Quezon Avenue,19,19:00 PM,Sunday,31,Moderately busy
+Quezon Avenue,20,20:00 PM,Sunday,22,Not busy
+Quezon Avenue,21,21:00 PM,Sunday,13,Not busy
+Quezon Avenue,22,22:00 PM,Sunday,9,Not busy
+Kamuning,5,5:00 AM,Monday,7,Not busy
+Kamuning,6,6:00 AM,Monday,17,Not busy
+Kamuning,7,7:00 AM,Monday,40,Moderately busy
+Kamuning,8,8:00 AM,Monday,37,Moderately busy
+Kamuning,9,9:00 AM,Monday,20,Not busy
+Kamuning,10,10:00 AM,Monday,13,Not busy
+Kamuning,11,11:00 AM,Monday,10,Not busy
+Kamuning,12,12:00 PM,Monday,17,Not busy
+Kamuning,13,13:00 PM,Monday,13,Not busy
+Kamuning,14,14:00 PM,Monday,10,Not busy
+Kamuning,15,15:00 PM,Monday,10,Not busy
+Kamuning,16,16:00 PM,Monday,13,Not busy
+Kamuning,17,17:00 PM,Monday,30,Not busy
+Kamuning,18,18:00 PM,Monday,40,Moderately busy
+Kamuning,19,19:00 PM,Monday,33,Moderately busy
+Kamuning,20,20:00 PM,Monday,17,Not busy
+Kamuning,21,21:00 PM,Monday,10,Not busy
+Kamuning,22,22:00 PM,Monday,3,Not busy
+Kamuning,5,5:00 AM,Tuesday,8,Not busy
+Kamuning,6,6:00 AM,Tuesday,19,Not busy
+Kamuning,7,7:00 AM,Tuesday,45,Moderately busy
+Kamuning,8,8:00 AM,Tuesday,42,Moderately busy
+Kamuning,9,9:00 AM,Tuesday,23,Not busy
+Kamuning,10,10:00 AM,Tuesday,15,Not busy
+Kamuning,11,11:00 AM,Tuesday,11,Not busy
+Kamuning,12,12:00 PM,Tuesday,19,Not busy
+Kamuning,13,13:00 PM,Tuesday,15,Not busy
+Kamuning,14,14:00 PM,Tuesday,11,Not busy
+Kamuning,15,15:00 PM,Tuesday,11,Not busy
+Kamuning,16,16:00 PM,Tuesday,15,Not busy
+Kamuning,17,17:00 PM,Tuesday,34,Moderately busy
+Kamuning,18,18:00 PM,Tuesday,45,Moderately busy
+Kamuning,19,19:00 PM,Tuesday,38,Moderately busy
+Kamuning,20,20:00 PM,Tuesday,19,Not busy
+Kamuning,21,21:00 PM,Tuesday,11,Not busy
+Kamuning,22,22:00 PM,Tuesday,4,Not busy
+Kamuning,5,5:00 AM,Wednesday,8,Not busy
+Kamuning,6,6:00 AM,Wednesday,19,Not busy
+Kamuning,7,7:00 AM,Wednesday,45,Moderately busy
+Kamuning,8,8:00 AM,Wednesday,42,Moderately busy
+Kamuning,9,9:00 AM,Wednesday,23,Not busy
+Kamuning,10,10:00 AM,Wednesday,15,Not busy
+Kamuning,11,11:00 AM,Wednesday,11,Not busy
+Kamuning,12,12:00 PM,Wednesday,19,Not busy
+Kamuning,13,13:00 PM,Wednesday,15,Not busy
+Kamuning,14,14:00 PM,Wednesday,11,Not busy
+Kamuning,15,15:00 PM,Wednesday,11,Not busy
+Kamuning,16,16:00 PM,Wednesday,15,Not busy
+Kamuning,17,17:00 PM,Wednesday,34,Moderately busy
+Kamuning,18,18:00 PM,Wednesday,45,Moderately busy
+Kamuning,19,19:00 PM,Wednesday,38,Moderately busy
+Kamuning,20,20:00 PM,Wednesday,19,Not busy
+Kamuning,21,21:00 PM,Wednesday,11,Not busy
+Kamuning,22,22:00 PM,Wednesday,4,Not busy
+Kamuning,5,5:00 AM,Thursday,7,Not busy
+Kamuning,6,6:00 AM,Thursday,19,Not busy
+Kamuning,7,7:00 AM,Thursday,45,Moderately busy
+Kamuning,8,8:00 AM,Thursday,41,Moderately busy
+Kamuning,9,9:00 AM,Thursday,22,Not busy
+Kamuning,10,10:00 AM,Thursday,15,Not busy
+Kamuning,11,11:00 AM,Thursday,11,Not busy
+Kamuning,12,12:00 PM,Thursday,19,Not busy
+Kamuning,13,13:00 PM,Thursday,15,Not busy
+Kamuning,14,14:00 PM,Thursday,11,Not busy
+Kamuning,15,15:00 PM,Thursday,11,Not busy
+Kamuning,16,16:00 PM,Thursday,15,Not busy
+Kamuning,17,17:00 PM,Thursday,33,Moderately busy
+Kamuning,18,18:00 PM,Thursday,45,Moderately busy
+Kamuning,19,19:00 PM,Thursday,37,Moderately busy
+Kamuning,20,20:00 PM,Thursday,19,Not busy
+Kamuning,21,21:00 PM,Thursday,11,Not busy
+Kamuning,22,22:00 PM,Thursday,4,Not busy
+Kamuning,5,5:00 AM,Friday,7,Not busy
+Kamuning,6,6:00 AM,Friday,17,Not busy
+Kamuning,7,7:00 AM,Friday,41,Moderately busy
+Kamuning,8,8:00 AM,Friday,38,Moderately busy
+Kamuning,9,9:00 AM,Friday,21,Not busy
+Kamuning,10,10:00 AM,Friday,14,Not busy
+Kamuning,11,11:00 AM,Friday,10,Not busy
+Kamuning,12,12:00 PM,Friday,17,Not busy
+Kamuning,13,13:00 PM,Friday,14,Not busy
+Kamuning,14,14:00 PM,Friday,10,Not busy
+Kamuning,15,15:00 PM,Friday,10,Not busy
+Kamuning,16,16:00 PM,Friday,14,Not busy
+Kamuning,17,17:00 PM,Friday,31,Moderately busy
+Kamuning,18,18:00 PM,Friday,41,Moderately busy
+Kamuning,19,19:00 PM,Friday,34,Moderately busy
+Kamuning,20,20:00 PM,Friday,17,Not busy
+Kamuning,21,21:00 PM,Friday,10,Not busy
+Kamuning,22,22:00 PM,Friday,3,Not busy
+Kamuning,5,5:00 AM,Saturday,4,Not busy
+Kamuning,6,6:00 AM,Saturday,8,Not busy
+Kamuning,7,7:00 AM,Saturday,8,Not busy
+Kamuning,8,8:00 AM,Saturday,12,Not busy
+Kamuning,9,9:00 AM,Saturday,15,Not busy
+Kamuning,10,10:00 AM,Saturday,19,Not busy
+Kamuning,11,11:00 AM,Saturday,23,Not busy
+Kamuning,12,12:00 PM,Saturday,31,Moderately busy
+Kamuning,13,13:00 PM,Saturday,35,Moderately busy
+Kamuning,14,14:00 PM,Saturday,35,Moderately busy
+Kamuning,15,15:00 PM,Saturday,35,Moderately busy
+Kamuning,16,16:00 PM,Saturday,35,Moderately busy
+Kamuning,17,17:00 PM,Saturday,31,Moderately busy
+Kamuning,18,18:00 PM,Saturday,31,Moderately busy
+Kamuning,19,19:00 PM,Saturday,27,Not busy
+Kamuning,20,20:00 PM,Saturday,19,Not busy
+Kamuning,21,21:00 PM,Saturday,12,Not busy
+Kamuning,22,22:00 PM,Saturday,8,Not busy
+Kamuning,5,5:00 AM,Sunday,3,Not busy
+Kamuning,6,6:00 AM,Sunday,6,Not busy
+Kamuning,7,7:00 AM,Sunday,6,Not busy
+Kamuning,8,8:00 AM,Sunday,9,Not busy
+Kamuning,9,9:00 AM,Sunday,13,Not busy
+Kamuning,10,10:00 AM,Sunday,16,Not busy
+Kamuning,11,11:00 AM,Sunday,19,Not busy
+Kamuning,12,12:00 PM,Sunday,25,Not busy
+Kamuning,13,13:00 PM,Sunday,28,Not busy
+Kamuning,14,14:00 PM,Sunday,28,Not busy
+Kamuning,15,15:00 PM,Sunday,28,Not busy
+Kamuning,16,16:00 PM,Sunday,28,Not busy
+Kamuning,17,17:00 PM,Sunday,25,Not busy
+Kamuning,18,18:00 PM,Sunday,25,Not busy
+Kamuning,19,19:00 PM,Sunday,22,Not busy
+Kamuning,20,20:00 PM,Sunday,16,Not busy
+Kamuning,21,21:00 PM,Sunday,9,Not busy
+Kamuning,22,22:00 PM,Sunday,6,Not busy
+Araneta Center-Cubao,5,5:00 AM,Monday,15,Not busy
+Araneta Center-Cubao,6,6:00 AM,Monday,37,Moderately busy
+Araneta Center-Cubao,7,7:00 AM,Monday,88,Very busy
+Araneta Center-Cubao,8,8:00 AM,Monday,80,Busy
+Araneta Center-Cubao,9,9:00 AM,Monday,44,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Monday,29,Not busy
+Araneta Center-Cubao,11,11:00 AM,Monday,22,Not busy
+Araneta Center-Cubao,12,12:00 PM,Monday,37,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Monday,29,Not busy
+Araneta Center-Cubao,14,14:00 PM,Monday,22,Not busy
+Araneta Center-Cubao,15,15:00 PM,Monday,22,Not busy
+Araneta Center-Cubao,16,16:00 PM,Monday,29,Not busy
+Araneta Center-Cubao,17,17:00 PM,Monday,66,Busy
+Araneta Center-Cubao,18,18:00 PM,Monday,88,Very busy
+Araneta Center-Cubao,19,19:00 PM,Monday,73,Busy
+Araneta Center-Cubao,20,20:00 PM,Monday,37,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Monday,22,Not busy
+Araneta Center-Cubao,22,22:00 PM,Monday,7,Not busy
+Araneta Center-Cubao,5,5:00 AM,Tuesday,17,Not busy
+Araneta Center-Cubao,6,6:00 AM,Tuesday,42,Moderately busy
+Araneta Center-Cubao,7,7:00 AM,Tuesday,100,Very busy
+Araneta Center-Cubao,8,8:00 AM,Tuesday,92,Very busy
+Araneta Center-Cubao,9,9:00 AM,Tuesday,50,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Tuesday,33,Moderately busy
+Araneta Center-Cubao,11,11:00 AM,Tuesday,25,Not busy
+Araneta Center-Cubao,12,12:00 PM,Tuesday,42,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Tuesday,33,Moderately busy
+Araneta Center-Cubao,14,14:00 PM,Tuesday,25,Not busy
+Araneta Center-Cubao,15,15:00 PM,Tuesday,25,Not busy
+Araneta Center-Cubao,16,16:00 PM,Tuesday,33,Moderately busy
+Araneta Center-Cubao,17,17:00 PM,Tuesday,75,Busy
+Araneta Center-Cubao,18,18:00 PM,Tuesday,100,Very busy
+Araneta Center-Cubao,19,19:00 PM,Tuesday,83,Busy
+Araneta Center-Cubao,20,20:00 PM,Tuesday,42,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Tuesday,25,Not busy
+Araneta Center-Cubao,22,22:00 PM,Tuesday,8,Not busy
+Araneta Center-Cubao,5,5:00 AM,Wednesday,17,Not busy
+Araneta Center-Cubao,6,6:00 AM,Wednesday,42,Moderately busy
+Araneta Center-Cubao,7,7:00 AM,Wednesday,100,Very busy
+Araneta Center-Cubao,8,8:00 AM,Wednesday,92,Very busy
+Araneta Center-Cubao,9,9:00 AM,Wednesday,50,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Wednesday,33,Moderately busy
+Araneta Center-Cubao,11,11:00 AM,Wednesday,25,Not busy
+Araneta Center-Cubao,12,12:00 PM,Wednesday,42,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Wednesday,33,Moderately busy
+Araneta Center-Cubao,14,14:00 PM,Wednesday,25,Not busy
+Araneta Center-Cubao,15,15:00 PM,Wednesday,25,Not busy
+Araneta Center-Cubao,16,16:00 PM,Wednesday,33,Moderately busy
+Araneta Center-Cubao,17,17:00 PM,Wednesday,75,Busy
+Araneta Center-Cubao,18,18:00 PM,Wednesday,100,Very busy
+Araneta Center-Cubao,19,19:00 PM,Wednesday,83,Busy
+Araneta Center-Cubao,20,20:00 PM,Wednesday,42,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Wednesday,25,Not busy
+Araneta Center-Cubao,22,22:00 PM,Wednesday,8,Not busy
+Araneta Center-Cubao,5,5:00 AM,Thursday,16,Not busy
+Araneta Center-Cubao,6,6:00 AM,Thursday,41,Moderately busy
+Araneta Center-Cubao,7,7:00 AM,Thursday,98,Very busy
+Araneta Center-Cubao,8,8:00 AM,Thursday,90,Very busy
+Araneta Center-Cubao,9,9:00 AM,Thursday,49,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Thursday,33,Moderately busy
+Araneta Center-Cubao,11,11:00 AM,Thursday,25,Not busy
+Araneta Center-Cubao,12,12:00 PM,Thursday,41,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Thursday,33,Moderately busy
+Araneta Center-Cubao,14,14:00 PM,Thursday,25,Not busy
+Araneta Center-Cubao,15,15:00 PM,Thursday,25,Not busy
+Araneta Center-Cubao,16,16:00 PM,Thursday,33,Moderately busy
+Araneta Center-Cubao,17,17:00 PM,Thursday,74,Busy
+Araneta Center-Cubao,18,18:00 PM,Thursday,98,Very busy
+Araneta Center-Cubao,19,19:00 PM,Thursday,82,Busy
+Araneta Center-Cubao,20,20:00 PM,Thursday,41,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Thursday,25,Not busy
+Araneta Center-Cubao,22,22:00 PM,Thursday,8,Not busy
+Araneta Center-Cubao,5,5:00 AM,Friday,15,Not busy
+Araneta Center-Cubao,6,6:00 AM,Friday,38,Moderately busy
+Araneta Center-Cubao,7,7:00 AM,Friday,90,Very busy
+Araneta Center-Cubao,8,8:00 AM,Friday,83,Busy
+Araneta Center-Cubao,9,9:00 AM,Friday,45,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Friday,30,Not busy
+Araneta Center-Cubao,11,11:00 AM,Friday,23,Not busy
+Araneta Center-Cubao,12,12:00 PM,Friday,38,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Friday,30,Not busy
+Araneta Center-Cubao,14,14:00 PM,Friday,23,Not busy
+Araneta Center-Cubao,15,15:00 PM,Friday,23,Not busy
+Araneta Center-Cubao,16,16:00 PM,Friday,30,Not busy
+Araneta Center-Cubao,17,17:00 PM,Friday,68,Busy
+Araneta Center-Cubao,18,18:00 PM,Friday,90,Very busy
+Araneta Center-Cubao,19,19:00 PM,Friday,75,Busy
+Araneta Center-Cubao,20,20:00 PM,Friday,38,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Friday,23,Not busy
+Araneta Center-Cubao,22,22:00 PM,Friday,8,Not busy
+Araneta Center-Cubao,5,5:00 AM,Saturday,8,Not busy
+Araneta Center-Cubao,6,6:00 AM,Saturday,17,Not busy
+Araneta Center-Cubao,7,7:00 AM,Saturday,17,Not busy
+Araneta Center-Cubao,8,8:00 AM,Saturday,26,Not busy
+Araneta Center-Cubao,9,9:00 AM,Saturday,34,Moderately busy
+Araneta Center-Cubao,10,10:00 AM,Saturday,42,Moderately busy
+Araneta Center-Cubao,11,11:00 AM,Saturday,51,Moderately busy
+Araneta Center-Cubao,12,12:00 PM,Saturday,68,Busy
+Araneta Center-Cubao,13,13:00 PM,Saturday,76,Busy
+Araneta Center-Cubao,14,14:00 PM,Saturday,76,Busy
+Araneta Center-Cubao,15,15:00 PM,Saturday,76,Busy
+Araneta Center-Cubao,16,16:00 PM,Saturday,76,Busy
+Araneta Center-Cubao,17,17:00 PM,Saturday,68,Busy
+Araneta Center-Cubao,18,18:00 PM,Saturday,68,Busy
+Araneta Center-Cubao,19,19:00 PM,Saturday,60,Moderately busy
+Araneta Center-Cubao,20,20:00 PM,Saturday,42,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Saturday,26,Not busy
+Araneta Center-Cubao,22,22:00 PM,Saturday,17,Not busy
+Araneta Center-Cubao,5,5:00 AM,Sunday,7,Not busy
+Araneta Center-Cubao,6,6:00 AM,Sunday,14,Not busy
+Araneta Center-Cubao,7,7:00 AM,Sunday,14,Not busy
+Araneta Center-Cubao,8,8:00 AM,Sunday,21,Not busy
+Araneta Center-Cubao,9,9:00 AM,Sunday,28,Not busy
+Araneta Center-Cubao,10,10:00 AM,Sunday,34,Moderately busy
+Araneta Center-Cubao,11,11:00 AM,Sunday,41,Moderately busy
+Araneta Center-Cubao,12,12:00 PM,Sunday,55,Moderately busy
+Araneta Center-Cubao,13,13:00 PM,Sunday,62,Busy
+Araneta Center-Cubao,14,14:00 PM,Sunday,62,Busy
+Araneta Center-Cubao,15,15:00 PM,Sunday,62,Busy
+Araneta Center-Cubao,16,16:00 PM,Sunday,62,Busy
+Araneta Center-Cubao,17,17:00 PM,Sunday,55,Moderately busy
+Araneta Center-Cubao,18,18:00 PM,Sunday,55,Moderately busy
+Araneta Center-Cubao,19,19:00 PM,Sunday,48,Moderately busy
+Araneta Center-Cubao,20,20:00 PM,Sunday,34,Moderately busy
+Araneta Center-Cubao,21,21:00 PM,Sunday,21,Not busy
+Araneta Center-Cubao,22,22:00 PM,Sunday,14,Not busy
+Santolan-Annapolis,5,5:00 AM,Monday,9,Not busy
+Santolan-Annapolis,6,6:00 AM,Monday,23,Not busy
+Santolan-Annapolis,7,7:00 AM,Monday,56,Moderately busy
+Santolan-Annapolis,8,8:00 AM,Monday,51,Moderately busy
+Santolan-Annapolis,9,9:00 AM,Monday,28,Not busy
+Santolan-Annapolis,10,10:00 AM,Monday,19,Not busy
+Santolan-Annapolis,11,11:00 AM,Monday,14,Not busy
+Santolan-Annapolis,12,12:00 PM,Monday,23,Not busy
+Santolan-Annapolis,13,13:00 PM,Monday,19,Not busy
+Santolan-Annapolis,14,14:00 PM,Monday,14,Not busy
+Santolan-Annapolis,15,15:00 PM,Monday,14,Not busy
+Santolan-Annapolis,16,16:00 PM,Monday,19,Not busy
+Santolan-Annapolis,17,17:00 PM,Monday,42,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Monday,56,Moderately busy
+Santolan-Annapolis,19,19:00 PM,Monday,46,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Monday,23,Not busy
+Santolan-Annapolis,21,21:00 PM,Monday,14,Not busy
+Santolan-Annapolis,22,22:00 PM,Monday,5,Not busy
+Santolan-Annapolis,5,5:00 AM,Tuesday,11,Not busy
+Santolan-Annapolis,6,6:00 AM,Tuesday,27,Not busy
+Santolan-Annapolis,7,7:00 AM,Tuesday,64,Busy
+Santolan-Annapolis,8,8:00 AM,Tuesday,58,Moderately busy
+Santolan-Annapolis,9,9:00 AM,Tuesday,32,Moderately busy
+Santolan-Annapolis,10,10:00 AM,Tuesday,21,Not busy
+Santolan-Annapolis,11,11:00 AM,Tuesday,16,Not busy
+Santolan-Annapolis,12,12:00 PM,Tuesday,27,Not busy
+Santolan-Annapolis,13,13:00 PM,Tuesday,21,Not busy
+Santolan-Annapolis,14,14:00 PM,Tuesday,16,Not busy
+Santolan-Annapolis,15,15:00 PM,Tuesday,16,Not busy
+Santolan-Annapolis,16,16:00 PM,Tuesday,21,Not busy
+Santolan-Annapolis,17,17:00 PM,Tuesday,48,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Tuesday,64,Busy
+Santolan-Annapolis,19,19:00 PM,Tuesday,53,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Tuesday,27,Not busy
+Santolan-Annapolis,21,21:00 PM,Tuesday,16,Not busy
+Santolan-Annapolis,22,22:00 PM,Tuesday,5,Not busy
+Santolan-Annapolis,5,5:00 AM,Wednesday,11,Not busy
+Santolan-Annapolis,6,6:00 AM,Wednesday,27,Not busy
+Santolan-Annapolis,7,7:00 AM,Wednesday,64,Busy
+Santolan-Annapolis,8,8:00 AM,Wednesday,58,Moderately busy
+Santolan-Annapolis,9,9:00 AM,Wednesday,32,Moderately busy
+Santolan-Annapolis,10,10:00 AM,Wednesday,21,Not busy
+Santolan-Annapolis,11,11:00 AM,Wednesday,16,Not busy
+Santolan-Annapolis,12,12:00 PM,Wednesday,27,Not busy
+Santolan-Annapolis,13,13:00 PM,Wednesday,21,Not busy
+Santolan-Annapolis,14,14:00 PM,Wednesday,16,Not busy
+Santolan-Annapolis,15,15:00 PM,Wednesday,16,Not busy
+Santolan-Annapolis,16,16:00 PM,Wednesday,21,Not busy
+Santolan-Annapolis,17,17:00 PM,Wednesday,48,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Wednesday,64,Busy
+Santolan-Annapolis,19,19:00 PM,Wednesday,53,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Wednesday,27,Not busy
+Santolan-Annapolis,21,21:00 PM,Wednesday,16,Not busy
+Santolan-Annapolis,22,22:00 PM,Wednesday,5,Not busy
+Santolan-Annapolis,5,5:00 AM,Thursday,10,Not busy
+Santolan-Annapolis,6,6:00 AM,Thursday,26,Not busy
+Santolan-Annapolis,7,7:00 AM,Thursday,62,Busy
+Santolan-Annapolis,8,8:00 AM,Thursday,57,Moderately busy
+Santolan-Annapolis,9,9:00 AM,Thursday,31,Moderately busy
+Santolan-Annapolis,10,10:00 AM,Thursday,21,Not busy
+Santolan-Annapolis,11,11:00 AM,Thursday,16,Not busy
+Santolan-Annapolis,12,12:00 PM,Thursday,26,Not busy
+Santolan-Annapolis,13,13:00 PM,Thursday,21,Not busy
+Santolan-Annapolis,14,14:00 PM,Thursday,16,Not busy
+Santolan-Annapolis,15,15:00 PM,Thursday,16,Not busy
+Santolan-Annapolis,16,16:00 PM,Thursday,21,Not busy
+Santolan-Annapolis,17,17:00 PM,Thursday,47,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Thursday,62,Busy
+Santolan-Annapolis,19,19:00 PM,Thursday,52,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Thursday,26,Not busy
+Santolan-Annapolis,21,21:00 PM,Thursday,16,Not busy
+Santolan-Annapolis,22,22:00 PM,Thursday,5,Not busy
+Santolan-Annapolis,5,5:00 AM,Friday,10,Not busy
+Santolan-Annapolis,6,6:00 AM,Friday,24,Not busy
+Santolan-Annapolis,7,7:00 AM,Friday,58,Moderately busy
+Santolan-Annapolis,8,8:00 AM,Friday,53,Moderately busy
+Santolan-Annapolis,9,9:00 AM,Friday,29,Not busy
+Santolan-Annapolis,10,10:00 AM,Friday,19,Not busy
+Santolan-Annapolis,11,11:00 AM,Friday,14,Not busy
+Santolan-Annapolis,12,12:00 PM,Friday,24,Not busy
+Santolan-Annapolis,13,13:00 PM,Friday,19,Not busy
+Santolan-Annapolis,14,14:00 PM,Friday,14,Not busy
+Santolan-Annapolis,15,15:00 PM,Friday,14,Not busy
+Santolan-Annapolis,16,16:00 PM,Friday,19,Not busy
+Santolan-Annapolis,17,17:00 PM,Friday,43,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Friday,58,Moderately busy
+Santolan-Annapolis,19,19:00 PM,Friday,48,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Friday,24,Not busy
+Santolan-Annapolis,21,21:00 PM,Friday,14,Not busy
+Santolan-Annapolis,22,22:00 PM,Friday,5,Not busy
+Santolan-Annapolis,5,5:00 AM,Saturday,5,Not busy
+Santolan-Annapolis,6,6:00 AM,Saturday,11,Not busy
+Santolan-Annapolis,7,7:00 AM,Saturday,11,Not busy
+Santolan-Annapolis,8,8:00 AM,Saturday,16,Not busy
+Santolan-Annapolis,9,9:00 AM,Saturday,22,Not busy
+Santolan-Annapolis,10,10:00 AM,Saturday,27,Not busy
+Santolan-Annapolis,11,11:00 AM,Saturday,32,Moderately busy
+Santolan-Annapolis,12,12:00 PM,Saturday,43,Moderately busy
+Santolan-Annapolis,13,13:00 PM,Saturday,49,Moderately busy
+Santolan-Annapolis,14,14:00 PM,Saturday,49,Moderately busy
+Santolan-Annapolis,15,15:00 PM,Saturday,49,Moderately busy
+Santolan-Annapolis,16,16:00 PM,Saturday,49,Moderately busy
+Santolan-Annapolis,17,17:00 PM,Saturday,43,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Saturday,43,Moderately busy
+Santolan-Annapolis,19,19:00 PM,Saturday,38,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Saturday,27,Not busy
+Santolan-Annapolis,21,21:00 PM,Saturday,16,Not busy
+Santolan-Annapolis,22,22:00 PM,Saturday,11,Not busy
+Santolan-Annapolis,5,5:00 AM,Sunday,4,Not busy
+Santolan-Annapolis,6,6:00 AM,Sunday,9,Not busy
+Santolan-Annapolis,7,7:00 AM,Sunday,9,Not busy
+Santolan-Annapolis,8,8:00 AM,Sunday,13,Not busy
+Santolan-Annapolis,9,9:00 AM,Sunday,18,Not busy
+Santolan-Annapolis,10,10:00 AM,Sunday,22,Not busy
+Santolan-Annapolis,11,11:00 AM,Sunday,26,Not busy
+Santolan-Annapolis,12,12:00 PM,Sunday,35,Moderately busy
+Santolan-Annapolis,13,13:00 PM,Sunday,39,Moderately busy
+Santolan-Annapolis,14,14:00 PM,Sunday,39,Moderately busy
+Santolan-Annapolis,15,15:00 PM,Sunday,39,Moderately busy
+Santolan-Annapolis,16,16:00 PM,Sunday,39,Moderately busy
+Santolan-Annapolis,17,17:00 PM,Sunday,35,Moderately busy
+Santolan-Annapolis,18,18:00 PM,Sunday,35,Moderately busy
+Santolan-Annapolis,19,19:00 PM,Sunday,31,Moderately busy
+Santolan-Annapolis,20,20:00 PM,Sunday,22,Not busy
+Santolan-Annapolis,21,21:00 PM,Sunday,13,Not busy
+Santolan-Annapolis,22,22:00 PM,Sunday,9,Not busy
+Ortigas,5,5:00 AM,Monday,11,Not busy
+Ortigas,6,6:00 AM,Monday,27,Not busy
+Ortigas,7,7:00 AM,Monday,64,Busy
+Ortigas,8,8:00 AM,Monday,58,Moderately busy
+Ortigas,9,9:00 AM,Monday,32,Moderately busy
+Ortigas,10,10:00 AM,Monday,21,Not busy
+Ortigas,11,11:00 AM,Monday,16,Not busy
+Ortigas,12,12:00 PM,Monday,27,Not busy
+Ortigas,13,13:00 PM,Monday,21,Not busy
+Ortigas,14,14:00 PM,Monday,16,Not busy
+Ortigas,15,15:00 PM,Monday,16,Not busy
+Ortigas,16,16:00 PM,Monday,21,Not busy
+Ortigas,17,17:00 PM,Monday,48,Moderately busy
+Ortigas,18,18:00 PM,Monday,64,Busy
+Ortigas,19,19:00 PM,Monday,53,Moderately busy
+Ortigas,20,20:00 PM,Monday,27,Not busy
+Ortigas,21,21:00 PM,Monday,16,Not busy
+Ortigas,22,22:00 PM,Monday,5,Not busy
+Ortigas,5,5:00 AM,Tuesday,12,Not busy
+Ortigas,6,6:00 AM,Tuesday,30,Not busy
+Ortigas,7,7:00 AM,Tuesday,73,Busy
+Ortigas,8,8:00 AM,Tuesday,67,Busy
+Ortigas,9,9:00 AM,Tuesday,36,Moderately busy
+Ortigas,10,10:00 AM,Tuesday,24,Not busy
+Ortigas,11,11:00 AM,Tuesday,18,Not busy
+Ortigas,12,12:00 PM,Tuesday,30,Not busy
+Ortigas,13,13:00 PM,Tuesday,24,Not busy
+Ortigas,14,14:00 PM,Tuesday,18,Not busy
+Ortigas,15,15:00 PM,Tuesday,18,Not busy
+Ortigas,16,16:00 PM,Tuesday,24,Not busy
+Ortigas,17,17:00 PM,Tuesday,55,Moderately busy
+Ortigas,18,18:00 PM,Tuesday,73,Busy
+Ortigas,19,19:00 PM,Tuesday,61,Busy
+Ortigas,20,20:00 PM,Tuesday,30,Not busy
+Ortigas,21,21:00 PM,Tuesday,18,Not busy
+Ortigas,22,22:00 PM,Tuesday,6,Not busy
+Ortigas,5,5:00 AM,Wednesday,12,Not busy
+Ortigas,6,6:00 AM,Wednesday,30,Not busy
+Ortigas,7,7:00 AM,Wednesday,73,Busy
+Ortigas,8,8:00 AM,Wednesday,67,Busy
+Ortigas,9,9:00 AM,Wednesday,36,Moderately busy
+Ortigas,10,10:00 AM,Wednesday,24,Not busy
+Ortigas,11,11:00 AM,Wednesday,18,Not busy
+Ortigas,12,12:00 PM,Wednesday,30,Not busy
+Ortigas,13,13:00 PM,Wednesday,24,Not busy
+Ortigas,14,14:00 PM,Wednesday,18,Not busy
+Ortigas,15,15:00 PM,Wednesday,18,Not busy
+Ortigas,16,16:00 PM,Wednesday,24,Not busy
+Ortigas,17,17:00 PM,Wednesday,55,Moderately busy
+Ortigas,18,18:00 PM,Wednesday,73,Busy
+Ortigas,19,19:00 PM,Wednesday,61,Busy
+Ortigas,20,20:00 PM,Wednesday,30,Not busy
+Ortigas,21,21:00 PM,Wednesday,18,Not busy
+Ortigas,22,22:00 PM,Wednesday,6,Not busy
+Ortigas,5,5:00 AM,Thursday,12,Not busy
+Ortigas,6,6:00 AM,Thursday,30,Not busy
+Ortigas,7,7:00 AM,Thursday,71,Busy
+Ortigas,8,8:00 AM,Thursday,65,Busy
+Ortigas,9,9:00 AM,Thursday,36,Moderately busy
+Ortigas,10,10:00 AM,Thursday,24,Not busy
+Ortigas,11,11:00 AM,Thursday,18,Not busy
+Ortigas,12,12:00 PM,Thursday,30,Not busy
+Ortigas,13,13:00 PM,Thursday,24,Not busy
+Ortigas,14,14:00 PM,Thursday,18,Not busy
+Ortigas,15,15:00 PM,Thursday,18,Not busy
+Ortigas,16,16:00 PM,Thursday,24,Not busy
+Ortigas,17,17:00 PM,Thursday,54,Moderately busy
+Ortigas,18,18:00 PM,Thursday,71,Busy
+Ortigas,19,19:00 PM,Thursday,59,Moderately busy
+Ortigas,20,20:00 PM,Thursday,30,Not busy
+Ortigas,21,21:00 PM,Thursday,18,Not busy
+Ortigas,22,22:00 PM,Thursday,6,Not busy
+Ortigas,5,5:00 AM,Friday,11,Not busy
+Ortigas,6,6:00 AM,Friday,27,Not busy
+Ortigas,7,7:00 AM,Friday,66,Busy
+Ortigas,8,8:00 AM,Friday,60,Moderately busy
+Ortigas,9,9:00 AM,Friday,33,Moderately busy
+Ortigas,10,10:00 AM,Friday,22,Not busy
+Ortigas,11,11:00 AM,Friday,16,Not busy
+Ortigas,12,12:00 PM,Friday,27,Not busy
+Ortigas,13,13:00 PM,Friday,22,Not busy
+Ortigas,14,14:00 PM,Friday,16,Not busy
+Ortigas,15,15:00 PM,Friday,16,Not busy
+Ortigas,16,16:00 PM,Friday,22,Not busy
+Ortigas,17,17:00 PM,Friday,49,Moderately busy
+Ortigas,18,18:00 PM,Friday,66,Busy
+Ortigas,19,19:00 PM,Friday,55,Moderately busy
+Ortigas,20,20:00 PM,Friday,27,Not busy
+Ortigas,21,21:00 PM,Friday,16,Not busy
+Ortigas,22,22:00 PM,Friday,5,Not busy
+Ortigas,5,5:00 AM,Saturday,6,Not busy
+Ortigas,6,6:00 AM,Saturday,12,Not busy
+Ortigas,7,7:00 AM,Saturday,12,Not busy
+Ortigas,8,8:00 AM,Saturday,19,Not busy
+Ortigas,9,9:00 AM,Saturday,25,Not busy
+Ortigas,10,10:00 AM,Saturday,31,Moderately busy
+Ortigas,11,11:00 AM,Saturday,37,Moderately busy
+Ortigas,12,12:00 PM,Saturday,49,Moderately busy
+Ortigas,13,13:00 PM,Saturday,56,Moderately busy
+Ortigas,14,14:00 PM,Saturday,56,Moderately busy
+Ortigas,15,15:00 PM,Saturday,56,Moderately busy
+Ortigas,16,16:00 PM,Saturday,56,Moderately busy
+Ortigas,17,17:00 PM,Saturday,49,Moderately busy
+Ortigas,18,18:00 PM,Saturday,49,Moderately busy
+Ortigas,19,19:00 PM,Saturday,43,Moderately busy
+Ortigas,20,20:00 PM,Saturday,31,Moderately busy
+Ortigas,21,21:00 PM,Saturday,19,Not busy
+Ortigas,22,22:00 PM,Saturday,12,Not busy
+Ortigas,5,5:00 AM,Sunday,5,Not busy
+Ortigas,6,6:00 AM,Sunday,10,Not busy
+Ortigas,7,7:00 AM,Sunday,10,Not busy
+Ortigas,8,8:00 AM,Sunday,15,Not busy
+Ortigas,9,9:00 AM,Sunday,20,Not busy
+Ortigas,10,10:00 AM,Sunday,25,Not busy
+Ortigas,11,11:00 AM,Sunday,30,Not busy
+Ortigas,12,12:00 PM,Sunday,40,Moderately busy
+Ortigas,13,13:00 PM,Sunday,45,Moderately busy
+Ortigas,14,14:00 PM,Sunday,45,Moderately busy
+Ortigas,15,15:00 PM,Sunday,45,Moderately busy
+Ortigas,16,16:00 PM,Sunday,45,Moderately busy
+Ortigas,17,17:00 PM,Sunday,40,Moderately busy
+Ortigas,18,18:00 PM,Sunday,40,Moderately busy
+Ortigas,19,19:00 PM,Sunday,35,Moderately busy
+Ortigas,20,20:00 PM,Sunday,25,Not busy
+Ortigas,21,21:00 PM,Sunday,15,Not busy
+Ortigas,22,22:00 PM,Sunday,10,Not busy
+Shaw Boulevard,5,5:00 AM,Monday,9,Not busy
+Shaw Boulevard,6,6:00 AM,Monday,23,Not busy
+Shaw Boulevard,7,7:00 AM,Monday,56,Moderately busy
+Shaw Boulevard,8,8:00 AM,Monday,51,Moderately busy
+Shaw Boulevard,9,9:00 AM,Monday,28,Not busy
+Shaw Boulevard,10,10:00 AM,Monday,19,Not busy
+Shaw Boulevard,11,11:00 AM,Monday,14,Not busy
+Shaw Boulevard,12,12:00 PM,Monday,23,Not busy
+Shaw Boulevard,13,13:00 PM,Monday,19,Not busy
+Shaw Boulevard,14,14:00 PM,Monday,14,Not busy
+Shaw Boulevard,15,15:00 PM,Monday,14,Not busy
+Shaw Boulevard,16,16:00 PM,Monday,19,Not busy
+Shaw Boulevard,17,17:00 PM,Monday,42,Moderately busy
+Shaw Boulevard,18,18:00 PM,Monday,56,Moderately busy
+Shaw Boulevard,19,19:00 PM,Monday,46,Moderately busy
+Shaw Boulevard,20,20:00 PM,Monday,23,Not busy
+Shaw Boulevard,21,21:00 PM,Monday,14,Not busy
+Shaw Boulevard,22,22:00 PM,Monday,5,Not busy
+Shaw Boulevard,5,5:00 AM,Tuesday,11,Not busy
+Shaw Boulevard,6,6:00 AM,Tuesday,27,Not busy
+Shaw Boulevard,7,7:00 AM,Tuesday,64,Busy
+Shaw Boulevard,8,8:00 AM,Tuesday,58,Moderately busy
+Shaw Boulevard,9,9:00 AM,Tuesday,32,Moderately busy
+Shaw Boulevard,10,10:00 AM,Tuesday,21,Not busy
+Shaw Boulevard,11,11:00 AM,Tuesday,16,Not busy
+Shaw Boulevard,12,12:00 PM,Tuesday,27,Not busy
+Shaw Boulevard,13,13:00 PM,Tuesday,21,Not busy
+Shaw Boulevard,14,14:00 PM,Tuesday,16,Not busy
+Shaw Boulevard,15,15:00 PM,Tuesday,16,Not busy
+Shaw Boulevard,16,16:00 PM,Tuesday,21,Not busy
+Shaw Boulevard,17,17:00 PM,Tuesday,48,Moderately busy
+Shaw Boulevard,18,18:00 PM,Tuesday,64,Busy
+Shaw Boulevard,19,19:00 PM,Tuesday,53,Moderately busy
+Shaw Boulevard,20,20:00 PM,Tuesday,27,Not busy
+Shaw Boulevard,21,21:00 PM,Tuesday,16,Not busy
+Shaw Boulevard,22,22:00 PM,Tuesday,5,Not busy
+Shaw Boulevard,5,5:00 AM,Wednesday,11,Not busy
+Shaw Boulevard,6,6:00 AM,Wednesday,27,Not busy
+Shaw Boulevard,7,7:00 AM,Wednesday,64,Busy
+Shaw Boulevard,8,8:00 AM,Wednesday,58,Moderately busy
+Shaw Boulevard,9,9:00 AM,Wednesday,32,Moderately busy
+Shaw Boulevard,10,10:00 AM,Wednesday,21,Not busy
+Shaw Boulevard,11,11:00 AM,Wednesday,16,Not busy
+Shaw Boulevard,12,12:00 PM,Wednesday,27,Not busy
+Shaw Boulevard,13,13:00 PM,Wednesday,21,Not busy
+Shaw Boulevard,14,14:00 PM,Wednesday,16,Not busy
+Shaw Boulevard,15,15:00 PM,Wednesday,16,Not busy
+Shaw Boulevard,16,16:00 PM,Wednesday,21,Not busy
+Shaw Boulevard,17,17:00 PM,Wednesday,48,Moderately busy
+Shaw Boulevard,18,18:00 PM,Wednesday,64,Busy
+Shaw Boulevard,19,19:00 PM,Wednesday,53,Moderately busy
+Shaw Boulevard,20,20:00 PM,Wednesday,27,Not busy
+Shaw Boulevard,21,21:00 PM,Wednesday,16,Not busy
+Shaw Boulevard,22,22:00 PM,Wednesday,5,Not busy
+Shaw Boulevard,5,5:00 AM,Thursday,10,Not busy
+Shaw Boulevard,6,6:00 AM,Thursday,26,Not busy
+Shaw Boulevard,7,7:00 AM,Thursday,62,Busy
+Shaw Boulevard,8,8:00 AM,Thursday,57,Moderately busy
+Shaw Boulevard,9,9:00 AM,Thursday,31,Moderately busy
+Shaw Boulevard,10,10:00 AM,Thursday,21,Not busy
+Shaw Boulevard,11,11:00 AM,Thursday,16,Not busy
+Shaw Boulevard,12,12:00 PM,Thursday,26,Not busy
+Shaw Boulevard,13,13:00 PM,Thursday,21,Not busy
+Shaw Boulevard,14,14:00 PM,Thursday,16,Not busy
+Shaw Boulevard,15,15:00 PM,Thursday,16,Not busy
+Shaw Boulevard,16,16:00 PM,Thursday,21,Not busy
+Shaw Boulevard,17,17:00 PM,Thursday,47,Moderately busy
+Shaw Boulevard,18,18:00 PM,Thursday,62,Busy
+Shaw Boulevard,19,19:00 PM,Thursday,52,Moderately busy
+Shaw Boulevard,20,20:00 PM,Thursday,26,Not busy
+Shaw Boulevard,21,21:00 PM,Thursday,16,Not busy
+Shaw Boulevard,22,22:00 PM,Thursday,5,Not busy
+Shaw Boulevard,5,5:00 AM,Friday,10,Not busy
+Shaw Boulevard,6,6:00 AM,Friday,24,Not busy
+Shaw Boulevard,7,7:00 AM,Friday,58,Moderately busy
+Shaw Boulevard,8,8:00 AM,Friday,53,Moderately busy
+Shaw Boulevard,9,9:00 AM,Friday,29,Not busy
+Shaw Boulevard,10,10:00 AM,Friday,19,Not busy
+Shaw Boulevard,11,11:00 AM,Friday,14,Not busy
+Shaw Boulevard,12,12:00 PM,Friday,24,Not busy
+Shaw Boulevard,13,13:00 PM,Friday,19,Not busy
+Shaw Boulevard,14,14:00 PM,Friday,14,Not busy
+Shaw Boulevard,15,15:00 PM,Friday,14,Not busy
+Shaw Boulevard,16,16:00 PM,Friday,19,Not busy
+Shaw Boulevard,17,17:00 PM,Friday,43,Moderately busy
+Shaw Boulevard,18,18:00 PM,Friday,58,Moderately busy
+Shaw Boulevard,19,19:00 PM,Friday,48,Moderately busy
+Shaw Boulevard,20,20:00 PM,Friday,24,Not busy
+Shaw Boulevard,21,21:00 PM,Friday,14,Not busy
+Shaw Boulevard,22,22:00 PM,Friday,5,Not busy
+Shaw Boulevard,5,5:00 AM,Saturday,5,Not busy
+Shaw Boulevard,6,6:00 AM,Saturday,11,Not busy
+Shaw Boulevard,7,7:00 AM,Saturday,11,Not busy
+Shaw Boulevard,8,8:00 AM,Saturday,16,Not busy
+Shaw Boulevard,9,9:00 AM,Saturday,22,Not busy
+Shaw Boulevard,10,10:00 AM,Saturday,27,Not busy
+Shaw Boulevard,11,11:00 AM,Saturday,32,Moderately busy
+Shaw Boulevard,12,12:00 PM,Saturday,43,Moderately busy
+Shaw Boulevard,13,13:00 PM,Saturday,49,Moderately busy
+Shaw Boulevard,14,14:00 PM,Saturday,49,Moderately busy
+Shaw Boulevard,15,15:00 PM,Saturday,49,Moderately busy
+Shaw Boulevard,16,16:00 PM,Saturday,49,Moderately busy
+Shaw Boulevard,17,17:00 PM,Saturday,43,Moderately busy
+Shaw Boulevard,18,18:00 PM,Saturday,43,Moderately busy
+Shaw Boulevard,19,19:00 PM,Saturday,38,Moderately busy
+Shaw Boulevard,20,20:00 PM,Saturday,27,Not busy
+Shaw Boulevard,21,21:00 PM,Saturday,16,Not busy
+Shaw Boulevard,22,22:00 PM,Saturday,11,Not busy
+Shaw Boulevard,5,5:00 AM,Sunday,4,Not busy
+Shaw Boulevard,6,6:00 AM,Sunday,9,Not busy
+Shaw Boulevard,7,7:00 AM,Sunday,9,Not busy
+Shaw Boulevard,8,8:00 AM,Sunday,13,Not busy
+Shaw Boulevard,9,9:00 AM,Sunday,18,Not busy
+Shaw Boulevard,10,10:00 AM,Sunday,22,Not busy
+Shaw Boulevard,11,11:00 AM,Sunday,26,Not busy
+Shaw Boulevard,12,12:00 PM,Sunday,35,Moderately busy
+Shaw Boulevard,13,13:00 PM,Sunday,39,Moderately busy
+Shaw Boulevard,14,14:00 PM,Sunday,39,Moderately busy
+Shaw Boulevard,15,15:00 PM,Sunday,39,Moderately busy
+Shaw Boulevard,16,16:00 PM,Sunday,39,Moderately busy
+Shaw Boulevard,17,17:00 PM,Sunday,35,Moderately busy
+Shaw Boulevard,18,18:00 PM,Sunday,35,Moderately busy
+Shaw Boulevard,19,19:00 PM,Sunday,31,Moderately busy
+Shaw Boulevard,20,20:00 PM,Sunday,22,Not busy
+Shaw Boulevard,21,21:00 PM,Sunday,13,Not busy
+Shaw Boulevard,22,22:00 PM,Sunday,9,Not busy
+Boni,5,5:00 AM,Monday,7,Not busy
+Boni,6,6:00 AM,Monday,17,Not busy
+Boni,7,7:00 AM,Monday,40,Moderately busy
+Boni,8,8:00 AM,Monday,37,Moderately busy
+Boni,9,9:00 AM,Monday,20,Not busy
+Boni,10,10:00 AM,Monday,13,Not busy
+Boni,11,11:00 AM,Monday,10,Not busy
+Boni,12,12:00 PM,Monday,17,Not busy
+Boni,13,13:00 PM,Monday,13,Not busy
+Boni,14,14:00 PM,Monday,10,Not busy
+Boni,15,15:00 PM,Monday,10,Not busy
+Boni,16,16:00 PM,Monday,13,Not busy
+Boni,17,17:00 PM,Monday,30,Not busy
+Boni,18,18:00 PM,Monday,40,Moderately busy
+Boni,19,19:00 PM,Monday,33,Moderately busy
+Boni,20,20:00 PM,Monday,17,Not busy
+Boni,21,21:00 PM,Monday,10,Not busy
+Boni,22,22:00 PM,Monday,3,Not busy
+Boni,5,5:00 AM,Tuesday,8,Not busy
+Boni,6,6:00 AM,Tuesday,19,Not busy
+Boni,7,7:00 AM,Tuesday,45,Moderately busy
+Boni,8,8:00 AM,Tuesday,42,Moderately busy
+Boni,9,9:00 AM,Tuesday,23,Not busy
+Boni,10,10:00 AM,Tuesday,15,Not busy
+Boni,11,11:00 AM,Tuesday,11,Not busy
+Boni,12,12:00 PM,Tuesday,19,Not busy
+Boni,13,13:00 PM,Tuesday,15,Not busy
+Boni,14,14:00 PM,Tuesday,11,Not busy
+Boni,15,15:00 PM,Tuesday,11,Not busy
+Boni,16,16:00 PM,Tuesday,15,Not busy
+Boni,17,17:00 PM,Tuesday,34,Moderately busy
+Boni,18,18:00 PM,Tuesday,45,Moderately busy
+Boni,19,19:00 PM,Tuesday,38,Moderately busy
+Boni,20,20:00 PM,Tuesday,19,Not busy
+Boni,21,21:00 PM,Tuesday,11,Not busy
+Boni,22,22:00 PM,Tuesday,4,Not busy
+Boni,5,5:00 AM,Wednesday,8,Not busy
+Boni,6,6:00 AM,Wednesday,19,Not busy
+Boni,7,7:00 AM,Wednesday,45,Moderately busy
+Boni,8,8:00 AM,Wednesday,42,Moderately busy
+Boni,9,9:00 AM,Wednesday,23,Not busy
+Boni,10,10:00 AM,Wednesday,15,Not busy
+Boni,11,11:00 AM,Wednesday,11,Not busy
+Boni,12,12:00 PM,Wednesday,19,Not busy
+Boni,13,13:00 PM,Wednesday,15,Not busy
+Boni,14,14:00 PM,Wednesday,11,Not busy
+Boni,15,15:00 PM,Wednesday,11,Not busy
+Boni,16,16:00 PM,Wednesday,15,Not busy
+Boni,17,17:00 PM,Wednesday,34,Moderately busy
+Boni,18,18:00 PM,Wednesday,45,Moderately busy
+Boni,19,19:00 PM,Wednesday,38,Moderately busy
+Boni,20,20:00 PM,Wednesday,19,Not busy
+Boni,21,21:00 PM,Wednesday,11,Not busy
+Boni,22,22:00 PM,Wednesday,4,Not busy
+Boni,5,5:00 AM,Thursday,7,Not busy
+Boni,6,6:00 AM,Thursday,19,Not busy
+Boni,7,7:00 AM,Thursday,45,Moderately busy
+Boni,8,8:00 AM,Thursday,41,Moderately busy
+Boni,9,9:00 AM,Thursday,22,Not busy
+Boni,10,10:00 AM,Thursday,15,Not busy
+Boni,11,11:00 AM,Thursday,11,Not busy
+Boni,12,12:00 PM,Thursday,19,Not busy
+Boni,13,13:00 PM,Thursday,15,Not busy
+Boni,14,14:00 PM,Thursday,11,Not busy
+Boni,15,15:00 PM,Thursday,11,Not busy
+Boni,16,16:00 PM,Thursday,15,Not busy
+Boni,17,17:00 PM,Thursday,33,Moderately busy
+Boni,18,18:00 PM,Thursday,45,Moderately busy
+Boni,19,19:00 PM,Thursday,37,Moderately busy
+Boni,20,20:00 PM,Thursday,19,Not busy
+Boni,21,21:00 PM,Thursday,11,Not busy
+Boni,22,22:00 PM,Thursday,4,Not busy
+Boni,5,5:00 AM,Friday,7,Not busy
+Boni,6,6:00 AM,Friday,17,Not busy
+Boni,7,7:00 AM,Friday,41,Moderately busy
+Boni,8,8:00 AM,Friday,38,Moderately busy
+Boni,9,9:00 AM,Friday,21,Not busy
+Boni,10,10:00 AM,Friday,14,Not busy
+Boni,11,11:00 AM,Friday,10,Not busy
+Boni,12,12:00 PM,Friday,17,Not busy
+Boni,13,13:00 PM,Friday,14,Not busy
+Boni,14,14:00 PM,Friday,10,Not busy
+Boni,15,15:00 PM,Friday,10,Not busy
+Boni,16,16:00 PM,Friday,14,Not busy
+Boni,17,17:00 PM,Friday,31,Moderately busy
+Boni,18,18:00 PM,Friday,41,Moderately busy
+Boni,19,19:00 PM,Friday,34,Moderately busy
+Boni,20,20:00 PM,Friday,17,Not busy
+Boni,21,21:00 PM,Friday,10,Not busy
+Boni,22,22:00 PM,Friday,3,Not busy
+Boni,5,5:00 AM,Saturday,4,Not busy
+Boni,6,6:00 AM,Saturday,8,Not busy
+Boni,7,7:00 AM,Saturday,8,Not busy
+Boni,8,8:00 AM,Saturday,12,Not busy
+Boni,9,9:00 AM,Saturday,15,Not busy
+Boni,10,10:00 AM,Saturday,19,Not busy
+Boni,11,11:00 AM,Saturday,23,Not busy
+Boni,12,12:00 PM,Saturday,31,Moderately busy
+Boni,13,13:00 PM,Saturday,35,Moderately busy
+Boni,14,14:00 PM,Saturday,35,Moderately busy
+Boni,15,15:00 PM,Saturday,35,Moderately busy
+Boni,16,16:00 PM,Saturday,35,Moderately busy
+Boni,17,17:00 PM,Saturday,31,Moderately busy
+Boni,18,18:00 PM,Saturday,31,Moderately busy
+Boni,19,19:00 PM,Saturday,27,Not busy
+Boni,20,20:00 PM,Saturday,19,Not busy
+Boni,21,21:00 PM,Saturday,12,Not busy
+Boni,22,22:00 PM,Saturday,8,Not busy
+Boni,5,5:00 AM,Sunday,3,Not busy
+Boni,6,6:00 AM,Sunday,6,Not busy
+Boni,7,7:00 AM,Sunday,6,Not busy
+Boni,8,8:00 AM,Sunday,9,Not busy
+Boni,9,9:00 AM,Sunday,13,Not busy
+Boni,10,10:00 AM,Sunday,16,Not busy
+Boni,11,11:00 AM,Sunday,19,Not busy
+Boni,12,12:00 PM,Sunday,25,Not busy
+Boni,13,13:00 PM,Sunday,28,Not busy
+Boni,14,14:00 PM,Sunday,28,Not busy
+Boni,15,15:00 PM,Sunday,28,Not busy
+Boni,16,16:00 PM,Sunday,28,Not busy
+Boni,17,17:00 PM,Sunday,25,Not busy
+Boni,18,18:00 PM,Sunday,25,Not busy
+Boni,19,19:00 PM,Sunday,22,Not busy
+Boni,20,20:00 PM,Sunday,16,Not busy
+Boni,21,21:00 PM,Sunday,9,Not busy
+Boni,22,22:00 PM,Sunday,6,Not busy
+Guadalupe,5,5:00 AM,Monday,9,Not busy
+Guadalupe,6,6:00 AM,Monday,23,Not busy
+Guadalupe,7,7:00 AM,Monday,56,Moderately busy
+Guadalupe,8,8:00 AM,Monday,51,Moderately busy
+Guadalupe,9,9:00 AM,Monday,28,Not busy
+Guadalupe,10,10:00 AM,Monday,19,Not busy
+Guadalupe,11,11:00 AM,Monday,14,Not busy
+Guadalupe,12,12:00 PM,Monday,23,Not busy
+Guadalupe,13,13:00 PM,Monday,19,Not busy
+Guadalupe,14,14:00 PM,Monday,14,Not busy
+Guadalupe,15,15:00 PM,Monday,14,Not busy
+Guadalupe,16,16:00 PM,Monday,19,Not busy
+Guadalupe,17,17:00 PM,Monday,42,Moderately busy
+Guadalupe,18,18:00 PM,Monday,56,Moderately busy
+Guadalupe,19,19:00 PM,Monday,46,Moderately busy
+Guadalupe,20,20:00 PM,Monday,23,Not busy
+Guadalupe,21,21:00 PM,Monday,14,Not busy
+Guadalupe,22,22:00 PM,Monday,5,Not busy
+Guadalupe,5,5:00 AM,Tuesday,11,Not busy
+Guadalupe,6,6:00 AM,Tuesday,27,Not busy
+Guadalupe,7,7:00 AM,Tuesday,64,Busy
+Guadalupe,8,8:00 AM,Tuesday,58,Moderately busy
+Guadalupe,9,9:00 AM,Tuesday,32,Moderately busy
+Guadalupe,10,10:00 AM,Tuesday,21,Not busy
+Guadalupe,11,11:00 AM,Tuesday,16,Not busy
+Guadalupe,12,12:00 PM,Tuesday,27,Not busy
+Guadalupe,13,13:00 PM,Tuesday,21,Not busy
+Guadalupe,14,14:00 PM,Tuesday,16,Not busy
+Guadalupe,15,15:00 PM,Tuesday,16,Not busy
+Guadalupe,16,16:00 PM,Tuesday,21,Not busy
+Guadalupe,17,17:00 PM,Tuesday,48,Moderately busy
+Guadalupe,18,18:00 PM,Tuesday,64,Busy
+Guadalupe,19,19:00 PM,Tuesday,53,Moderately busy
+Guadalupe,20,20:00 PM,Tuesday,27,Not busy
+Guadalupe,21,21:00 PM,Tuesday,16,Not busy
+Guadalupe,22,22:00 PM,Tuesday,5,Not busy
+Guadalupe,5,5:00 AM,Wednesday,11,Not busy
+Guadalupe,6,6:00 AM,Wednesday,27,Not busy
+Guadalupe,7,7:00 AM,Wednesday,64,Busy
+Guadalupe,8,8:00 AM,Wednesday,58,Moderately busy
+Guadalupe,9,9:00 AM,Wednesday,32,Moderately busy
+Guadalupe,10,10:00 AM,Wednesday,21,Not busy
+Guadalupe,11,11:00 AM,Wednesday,16,Not busy
+Guadalupe,12,12:00 PM,Wednesday,27,Not busy
+Guadalupe,13,13:00 PM,Wednesday,21,Not busy
+Guadalupe,14,14:00 PM,Wednesday,16,Not busy
+Guadalupe,15,15:00 PM,Wednesday,16,Not busy
+Guadalupe,16,16:00 PM,Wednesday,21,Not busy
+Guadalupe,17,17:00 PM,Wednesday,48,Moderately busy
+Guadalupe,18,18:00 PM,Wednesday,64,Busy
+Guadalupe,19,19:00 PM,Wednesday,53,Moderately busy
+Guadalupe,20,20:00 PM,Wednesday,27,Not busy
+Guadalupe,21,21:00 PM,Wednesday,16,Not busy
+Guadalupe,22,22:00 PM,Wednesday,5,Not busy
+Guadalupe,5,5:00 AM,Thursday,10,Not busy
+Guadalupe,6,6:00 AM,Thursday,26,Not busy
+Guadalupe,7,7:00 AM,Thursday,62,Busy
+Guadalupe,8,8:00 AM,Thursday,57,Moderately busy
+Guadalupe,9,9:00 AM,Thursday,31,Moderately busy
+Guadalupe,10,10:00 AM,Thursday,21,Not busy
+Guadalupe,11,11:00 AM,Thursday,16,Not busy
+Guadalupe,12,12:00 PM,Thursday,26,Not busy
+Guadalupe,13,13:00 PM,Thursday,21,Not busy
+Guadalupe,14,14:00 PM,Thursday,16,Not busy
+Guadalupe,15,15:00 PM,Thursday,16,Not busy
+Guadalupe,16,16:00 PM,Thursday,21,Not busy
+Guadalupe,17,17:00 PM,Thursday,47,Moderately busy
+Guadalupe,18,18:00 PM,Thursday,62,Busy
+Guadalupe,19,19:00 PM,Thursday,52,Moderately busy
+Guadalupe,20,20:00 PM,Thursday,26,Not busy
+Guadalupe,21,21:00 PM,Thursday,16,Not busy
+Guadalupe,22,22:00 PM,Thursday,5,Not busy
+Guadalupe,5,5:00 AM,Friday,10,Not busy
+Guadalupe,6,6:00 AM,Friday,24,Not busy
+Guadalupe,7,7:00 AM,Friday,58,Moderately busy
+Guadalupe,8,8:00 AM,Friday,53,Moderately busy
+Guadalupe,9,9:00 AM,Friday,29,Not busy
+Guadalupe,10,10:00 AM,Friday,19,Not busy
+Guadalupe,11,11:00 AM,Friday,14,Not busy
+Guadalupe,12,12:00 PM,Friday,24,Not busy
+Guadalupe,13,13:00 PM,Friday,19,Not busy
+Guadalupe,14,14:00 PM,Friday,14,Not busy
+Guadalupe,15,15:00 PM,Friday,14,Not busy
+Guadalupe,16,16:00 PM,Friday,19,Not busy
+Guadalupe,17,17:00 PM,Friday,43,Moderately busy
+Guadalupe,18,18:00 PM,Friday,58,Moderately busy
+Guadalupe,19,19:00 PM,Friday,48,Moderately busy
+Guadalupe,20,20:00 PM,Friday,24,Not busy
+Guadalupe,21,21:00 PM,Friday,14,Not busy
+Guadalupe,22,22:00 PM,Friday,5,Not busy
+Guadalupe,5,5:00 AM,Saturday,5,Not busy
+Guadalupe,6,6:00 AM,Saturday,11,Not busy
+Guadalupe,7,7:00 AM,Saturday,11,Not busy
+Guadalupe,8,8:00 AM,Saturday,16,Not busy
+Guadalupe,9,9:00 AM,Saturday,22,Not busy
+Guadalupe,10,10:00 AM,Saturday,27,Not busy
+Guadalupe,11,11:00 AM,Saturday,32,Moderately busy
+Guadalupe,12,12:00 PM,Saturday,43,Moderately busy
+Guadalupe,13,13:00 PM,Saturday,49,Moderately busy
+Guadalupe,14,14:00 PM,Saturday,49,Moderately busy
+Guadalupe,15,15:00 PM,Saturday,49,Moderately busy
+Guadalupe,16,16:00 PM,Saturday,49,Moderately busy
+Guadalupe,17,17:00 PM,Saturday,43,Moderately busy
+Guadalupe,18,18:00 PM,Saturday,43,Moderately busy
+Guadalupe,19,19:00 PM,Saturday,38,Moderately busy
+Guadalupe,20,20:00 PM,Saturday,27,Not busy
+Guadalupe,21,21:00 PM,Saturday,16,Not busy
+Guadalupe,22,22:00 PM,Saturday,11,Not busy
+Guadalupe,5,5:00 AM,Sunday,4,Not busy
+Guadalupe,6,6:00 AM,Sunday,9,Not busy
+Guadalupe,7,7:00 AM,Sunday,9,Not busy
+Guadalupe,8,8:00 AM,Sunday,13,Not busy
+Guadalupe,9,9:00 AM,Sunday,18,Not busy
+Guadalupe,10,10:00 AM,Sunday,22,Not busy
+Guadalupe,11,11:00 AM,Sunday,26,Not busy
+Guadalupe,12,12:00 PM,Sunday,35,Moderately busy
+Guadalupe,13,13:00 PM,Sunday,39,Moderately busy
+Guadalupe,14,14:00 PM,Sunday,39,Moderately busy
+Guadalupe,15,15:00 PM,Sunday,39,Moderately busy
+Guadalupe,16,16:00 PM,Sunday,39,Moderately busy
+Guadalupe,17,17:00 PM,Sunday,35,Moderately busy
+Guadalupe,18,18:00 PM,Sunday,35,Moderately busy
+Guadalupe,19,19:00 PM,Sunday,31,Moderately busy
+Guadalupe,20,20:00 PM,Sunday,22,Not busy
+Guadalupe,21,21:00 PM,Sunday,13,Not busy
+Guadalupe,22,22:00 PM,Sunday,9,Not busy
+Buendia,5,5:00 AM,Monday,9,Not busy
+Buendia,6,6:00 AM,Monday,23,Not busy
+Buendia,7,7:00 AM,Monday,56,Moderately busy
+Buendia,8,8:00 AM,Monday,51,Moderately busy
+Buendia,9,9:00 AM,Monday,28,Not busy
+Buendia,10,10:00 AM,Monday,19,Not busy
+Buendia,11,11:00 AM,Monday,14,Not busy
+Buendia,12,12:00 PM,Monday,23,Not busy
+Buendia,13,13:00 PM,Monday,19,Not busy
+Buendia,14,14:00 PM,Monday,14,Not busy
+Buendia,15,15:00 PM,Monday,14,Not busy
+Buendia,16,16:00 PM,Monday,19,Not busy
+Buendia,17,17:00 PM,Monday,42,Moderately busy
+Buendia,18,18:00 PM,Monday,56,Moderately busy
+Buendia,19,19:00 PM,Monday,46,Moderately busy
+Buendia,20,20:00 PM,Monday,23,Not busy
+Buendia,21,21:00 PM,Monday,14,Not busy
+Buendia,22,22:00 PM,Monday,5,Not busy
+Buendia,5,5:00 AM,Tuesday,11,Not busy
+Buendia,6,6:00 AM,Tuesday,27,Not busy
+Buendia,7,7:00 AM,Tuesday,64,Busy
+Buendia,8,8:00 AM,Tuesday,58,Moderately busy
+Buendia,9,9:00 AM,Tuesday,32,Moderately busy
+Buendia,10,10:00 AM,Tuesday,21,Not busy
+Buendia,11,11:00 AM,Tuesday,16,Not busy
+Buendia,12,12:00 PM,Tuesday,27,Not busy
+Buendia,13,13:00 PM,Tuesday,21,Not busy
+Buendia,14,14:00 PM,Tuesday,16,Not busy
+Buendia,15,15:00 PM,Tuesday,16,Not busy
+Buendia,16,16:00 PM,Tuesday,21,Not busy
+Buendia,17,17:00 PM,Tuesday,48,Moderately busy
+Buendia,18,18:00 PM,Tuesday,64,Busy
+Buendia,19,19:00 PM,Tuesday,53,Moderately busy
+Buendia,20,20:00 PM,Tuesday,27,Not busy
+Buendia,21,21:00 PM,Tuesday,16,Not busy
+Buendia,22,22:00 PM,Tuesday,5,Not busy
+Buendia,5,5:00 AM,Wednesday,11,Not busy
+Buendia,6,6:00 AM,Wednesday,27,Not busy
+Buendia,7,7:00 AM,Wednesday,64,Busy
+Buendia,8,8:00 AM,Wednesday,58,Moderately busy
+Buendia,9,9:00 AM,Wednesday,32,Moderately busy
+Buendia,10,10:00 AM,Wednesday,21,Not busy
+Buendia,11,11:00 AM,Wednesday,16,Not busy
+Buendia,12,12:00 PM,Wednesday,27,Not busy
+Buendia,13,13:00 PM,Wednesday,21,Not busy
+Buendia,14,14:00 PM,Wednesday,16,Not busy
+Buendia,15,15:00 PM,Wednesday,16,Not busy
+Buendia,16,16:00 PM,Wednesday,21,Not busy
+Buendia,17,17:00 PM,Wednesday,48,Moderately busy
+Buendia,18,18:00 PM,Wednesday,64,Busy
+Buendia,19,19:00 PM,Wednesday,53,Moderately busy
+Buendia,20,20:00 PM,Wednesday,27,Not busy
+Buendia,21,21:00 PM,Wednesday,16,Not busy
+Buendia,22,22:00 PM,Wednesday,5,Not busy
+Buendia,5,5:00 AM,Thursday,10,Not busy
+Buendia,6,6:00 AM,Thursday,26,Not busy
+Buendia,7,7:00 AM,Thursday,62,Busy
+Buendia,8,8:00 AM,Thursday,57,Moderately busy
+Buendia,9,9:00 AM,Thursday,31,Moderately busy
+Buendia,10,10:00 AM,Thursday,21,Not busy
+Buendia,11,11:00 AM,Thursday,16,Not busy
+Buendia,12,12:00 PM,Thursday,26,Not busy
+Buendia,13,13:00 PM,Thursday,21,Not busy
+Buendia,14,14:00 PM,Thursday,16,Not busy
+Buendia,15,15:00 PM,Thursday,16,Not busy
+Buendia,16,16:00 PM,Thursday,21,Not busy
+Buendia,17,17:00 PM,Thursday,47,Moderately busy
+Buendia,18,18:00 PM,Thursday,62,Busy
+Buendia,19,19:00 PM,Thursday,52,Moderately busy
+Buendia,20,20:00 PM,Thursday,26,Not busy
+Buendia,21,21:00 PM,Thursday,16,Not busy
+Buendia,22,22:00 PM,Thursday,5,Not busy
+Buendia,5,5:00 AM,Friday,10,Not busy
+Buendia,6,6:00 AM,Friday,24,Not busy
+Buendia,7,7:00 AM,Friday,58,Moderately busy
+Buendia,8,8:00 AM,Friday,53,Moderately busy
+Buendia,9,9:00 AM,Friday,29,Not busy
+Buendia,10,10:00 AM,Friday,19,Not busy
+Buendia,11,11:00 AM,Friday,14,Not busy
+Buendia,12,12:00 PM,Friday,24,Not busy
+Buendia,13,13:00 PM,Friday,19,Not busy
+Buendia,14,14:00 PM,Friday,14,Not busy
+Buendia,15,15:00 PM,Friday,14,Not busy
+Buendia,16,16:00 PM,Friday,19,Not busy
+Buendia,17,17:00 PM,Friday,43,Moderately busy
+Buendia,18,18:00 PM,Friday,58,Moderately busy
+Buendia,19,19:00 PM,Friday,48,Moderately busy
+Buendia,20,20:00 PM,Friday,24,Not busy
+Buendia,21,21:00 PM,Friday,14,Not busy
+Buendia,22,22:00 PM,Friday,5,Not busy
+Buendia,5,5:00 AM,Saturday,5,Not busy
+Buendia,6,6:00 AM,Saturday,11,Not busy
+Buendia,7,7:00 AM,Saturday,11,Not busy
+Buendia,8,8:00 AM,Saturday,16,Not busy
+Buendia,9,9:00 AM,Saturday,22,Not busy
+Buendia,10,10:00 AM,Saturday,27,Not busy
+Buendia,11,11:00 AM,Saturday,32,Moderately busy
+Buendia,12,12:00 PM,Saturday,43,Moderately busy
+Buendia,13,13:00 PM,Saturday,49,Moderately busy
+Buendia,14,14:00 PM,Saturday,49,Moderately busy
+Buendia,15,15:00 PM,Saturday,49,Moderately busy
+Buendia,16,16:00 PM,Saturday,49,Moderately busy
+Buendia,17,17:00 PM,Saturday,43,Moderately busy
+Buendia,18,18:00 PM,Saturday,43,Moderately busy
+Buendia,19,19:00 PM,Saturday,38,Moderately busy
+Buendia,20,20:00 PM,Saturday,27,Not busy
+Buendia,21,21:00 PM,Saturday,16,Not busy
+Buendia,22,22:00 PM,Saturday,11,Not busy
+Buendia,5,5:00 AM,Sunday,4,Not busy
+Buendia,6,6:00 AM,Sunday,9,Not busy
+Buendia,7,7:00 AM,Sunday,9,Not busy
+Buendia,8,8:00 AM,Sunday,13,Not busy
+Buendia,9,9:00 AM,Sunday,18,Not busy
+Buendia,10,10:00 AM,Sunday,22,Not busy
+Buendia,11,11:00 AM,Sunday,26,Not busy
+Buendia,12,12:00 PM,Sunday,35,Moderately busy
+Buendia,13,13:00 PM,Sunday,39,Moderately busy
+Buendia,14,14:00 PM,Sunday,39,Moderately busy
+Buendia,15,15:00 PM,Sunday,39,Moderately busy
+Buendia,16,16:00 PM,Sunday,39,Moderately busy
+Buendia,17,17:00 PM,Sunday,35,Moderately busy
+Buendia,18,18:00 PM,Sunday,35,Moderately busy
+Buendia,19,19:00 PM,Sunday,31,Moderately busy
+Buendia,20,20:00 PM,Sunday,22,Not busy
+Buendia,21,21:00 PM,Sunday,13,Not busy
+Buendia,22,22:00 PM,Sunday,9,Not busy
+Ayala,5,5:00 AM,Monday,13,Not busy
+Ayala,6,6:00 AM,Monday,33,Moderately busy
+Ayala,7,7:00 AM,Monday,80,Busy
+Ayala,8,8:00 AM,Monday,73,Busy
+Ayala,9,9:00 AM,Monday,40,Moderately busy
+Ayala,10,10:00 AM,Monday,27,Not busy
+Ayala,11,11:00 AM,Monday,20,Not busy
+Ayala,12,12:00 PM,Monday,33,Moderately busy
+Ayala,13,13:00 PM,Monday,27,Not busy
+Ayala,14,14:00 PM,Monday,20,Not busy
+Ayala,15,15:00 PM,Monday,20,Not busy
+Ayala,16,16:00 PM,Monday,27,Not busy
+Ayala,17,17:00 PM,Monday,60,Moderately busy
+Ayala,18,18:00 PM,Monday,80,Busy
+Ayala,19,19:00 PM,Monday,66,Busy
+Ayala,20,20:00 PM,Monday,33,Moderately busy
+Ayala,21,21:00 PM,Monday,20,Not busy
+Ayala,22,22:00 PM,Monday,7,Not busy
+Ayala,5,5:00 AM,Tuesday,15,Not busy
+Ayala,6,6:00 AM,Tuesday,38,Moderately busy
+Ayala,7,7:00 AM,Tuesday,91,Very busy
+Ayala,8,8:00 AM,Tuesday,83,Busy
+Ayala,9,9:00 AM,Tuesday,45,Moderately busy
+Ayala,10,10:00 AM,Tuesday,30,Not busy
+Ayala,11,11:00 AM,Tuesday,23,Not busy
+Ayala,12,12:00 PM,Tuesday,38,Moderately busy
+Ayala,13,13:00 PM,Tuesday,30,Not busy
+Ayala,14,14:00 PM,Tuesday,23,Not busy
+Ayala,15,15:00 PM,Tuesday,23,Not busy
+Ayala,16,16:00 PM,Tuesday,30,Not busy
+Ayala,17,17:00 PM,Tuesday,68,Busy
+Ayala,18,18:00 PM,Tuesday,91,Very busy
+Ayala,19,19:00 PM,Tuesday,76,Busy
+Ayala,20,20:00 PM,Tuesday,38,Moderately busy
+Ayala,21,21:00 PM,Tuesday,23,Not busy
+Ayala,22,22:00 PM,Tuesday,8,Not busy
+Ayala,5,5:00 AM,Wednesday,15,Not busy
+Ayala,6,6:00 AM,Wednesday,38,Moderately busy
+Ayala,7,7:00 AM,Wednesday,91,Very busy
+Ayala,8,8:00 AM,Wednesday,83,Busy
+Ayala,9,9:00 AM,Wednesday,45,Moderately busy
+Ayala,10,10:00 AM,Wednesday,30,Not busy
+Ayala,11,11:00 AM,Wednesday,23,Not busy
+Ayala,12,12:00 PM,Wednesday,38,Moderately busy
+Ayala,13,13:00 PM,Wednesday,30,Not busy
+Ayala,14,14:00 PM,Wednesday,23,Not busy
+Ayala,15,15:00 PM,Wednesday,23,Not busy
+Ayala,16,16:00 PM,Wednesday,30,Not busy
+Ayala,17,17:00 PM,Wednesday,68,Busy
+Ayala,18,18:00 PM,Wednesday,91,Very busy
+Ayala,19,19:00 PM,Wednesday,76,Busy
+Ayala,20,20:00 PM,Wednesday,38,Moderately busy
+Ayala,21,21:00 PM,Wednesday,23,Not busy
+Ayala,22,22:00 PM,Wednesday,8,Not busy
+Ayala,5,5:00 AM,Thursday,15,Not busy
+Ayala,6,6:00 AM,Thursday,37,Moderately busy
+Ayala,7,7:00 AM,Thursday,89,Very busy
+Ayala,8,8:00 AM,Thursday,82,Busy
+Ayala,9,9:00 AM,Thursday,45,Moderately busy
+Ayala,10,10:00 AM,Thursday,30,Not busy
+Ayala,11,11:00 AM,Thursday,22,Not busy
+Ayala,12,12:00 PM,Thursday,37,Moderately busy
+Ayala,13,13:00 PM,Thursday,30,Not busy
+Ayala,14,14:00 PM,Thursday,22,Not busy
+Ayala,15,15:00 PM,Thursday,22,Not busy
+Ayala,16,16:00 PM,Thursday,30,Not busy
+Ayala,17,17:00 PM,Thursday,67,Busy
+Ayala,18,18:00 PM,Thursday,89,Very busy
+Ayala,19,19:00 PM,Thursday,74,Busy
+Ayala,20,20:00 PM,Thursday,37,Moderately busy
+Ayala,21,21:00 PM,Thursday,22,Not busy
+Ayala,22,22:00 PM,Thursday,7,Not busy
+Ayala,5,5:00 AM,Friday,14,Not busy
+Ayala,6,6:00 AM,Friday,34,Moderately busy
+Ayala,7,7:00 AM,Friday,82,Busy
+Ayala,8,8:00 AM,Friday,75,Busy
+Ayala,9,9:00 AM,Friday,41,Moderately busy
+Ayala,10,10:00 AM,Friday,27,Not busy
+Ayala,11,11:00 AM,Friday,21,Not busy
+Ayala,12,12:00 PM,Friday,34,Moderately busy
+Ayala,13,13:00 PM,Friday,27,Not busy
+Ayala,14,14:00 PM,Friday,21,Not busy
+Ayala,15,15:00 PM,Friday,21,Not busy
+Ayala,16,16:00 PM,Friday,27,Not busy
+Ayala,17,17:00 PM,Friday,62,Busy
+Ayala,18,18:00 PM,Friday,82,Busy
+Ayala,19,19:00 PM,Friday,69,Busy
+Ayala,20,20:00 PM,Friday,34,Moderately busy
+Ayala,21,21:00 PM,Friday,21,Not busy
+Ayala,22,22:00 PM,Friday,7,Not busy
+Ayala,5,5:00 AM,Saturday,8,Not busy
+Ayala,6,6:00 AM,Saturday,15,Not busy
+Ayala,7,7:00 AM,Saturday,15,Not busy
+Ayala,8,8:00 AM,Saturday,23,Not busy
+Ayala,9,9:00 AM,Saturday,31,Moderately busy
+Ayala,10,10:00 AM,Saturday,39,Moderately busy
+Ayala,11,11:00 AM,Saturday,46,Moderately busy
+Ayala,12,12:00 PM,Saturday,62,Busy
+Ayala,13,13:00 PM,Saturday,70,Busy
+Ayala,14,14:00 PM,Saturday,70,Busy
+Ayala,15,15:00 PM,Saturday,70,Busy
+Ayala,16,16:00 PM,Saturday,70,Busy
+Ayala,17,17:00 PM,Saturday,62,Busy
+Ayala,18,18:00 PM,Saturday,62,Busy
+Ayala,19,19:00 PM,Saturday,54,Moderately busy
+Ayala,20,20:00 PM,Saturday,39,Moderately busy
+Ayala,21,21:00 PM,Saturday,23,Not busy
+Ayala,22,22:00 PM,Saturday,15,Not busy
+Ayala,5,5:00 AM,Sunday,6,Not busy
+Ayala,6,6:00 AM,Sunday,13,Not busy
+Ayala,7,7:00 AM,Sunday,13,Not busy
+Ayala,8,8:00 AM,Sunday,19,Not busy
+Ayala,9,9:00 AM,Sunday,25,Not busy
+Ayala,10,10:00 AM,Sunday,31,Moderately busy
+Ayala,11,11:00 AM,Sunday,38,Moderately busy
+Ayala,12,12:00 PM,Sunday,50,Moderately busy
+Ayala,13,13:00 PM,Sunday,56,Moderately busy
+Ayala,14,14:00 PM,Sunday,56,Moderately busy
+Ayala,15,15:00 PM,Sunday,56,Moderately busy
+Ayala,16,16:00 PM,Sunday,56,Moderately busy
+Ayala,17,17:00 PM,Sunday,50,Moderately busy
+Ayala,18,18:00 PM,Sunday,50,Moderately busy
+Ayala,19,19:00 PM,Sunday,44,Moderately busy
+Ayala,20,20:00 PM,Sunday,31,Moderately busy
+Ayala,21,21:00 PM,Sunday,19,Not busy
+Ayala,22,22:00 PM,Sunday,13,Not busy
+Magallanes,5,5:00 AM,Monday,8,Not busy
+Magallanes,6,6:00 AM,Monday,20,Not busy
+Magallanes,7,7:00 AM,Monday,48,Moderately busy
+Magallanes,8,8:00 AM,Monday,44,Moderately busy
+Magallanes,9,9:00 AM,Monday,24,Not busy
+Magallanes,10,10:00 AM,Monday,16,Not busy
+Magallanes,11,11:00 AM,Monday,12,Not busy
+Magallanes,12,12:00 PM,Monday,20,Not busy
+Magallanes,13,13:00 PM,Monday,16,Not busy
+Magallanes,14,14:00 PM,Monday,12,Not busy
+Magallanes,15,15:00 PM,Monday,12,Not busy
+Magallanes,16,16:00 PM,Monday,16,Not busy
+Magallanes,17,17:00 PM,Monday,36,Moderately busy
+Magallanes,18,18:00 PM,Monday,48,Moderately busy
+Magallanes,19,19:00 PM,Monday,40,Moderately busy
+Magallanes,20,20:00 PM,Monday,20,Not busy
+Magallanes,21,21:00 PM,Monday,12,Not busy
+Magallanes,22,22:00 PM,Monday,4,Not busy
+Magallanes,5,5:00 AM,Tuesday,9,Not busy
+Magallanes,6,6:00 AM,Tuesday,23,Not busy
+Magallanes,7,7:00 AM,Tuesday,55,Moderately busy
+Magallanes,8,8:00 AM,Tuesday,50,Moderately busy
+Magallanes,9,9:00 AM,Tuesday,27,Not busy
+Magallanes,10,10:00 AM,Tuesday,18,Not busy
+Magallanes,11,11:00 AM,Tuesday,14,Not busy
+Magallanes,12,12:00 PM,Tuesday,23,Not busy
+Magallanes,13,13:00 PM,Tuesday,18,Not busy
+Magallanes,14,14:00 PM,Tuesday,14,Not busy
+Magallanes,15,15:00 PM,Tuesday,14,Not busy
+Magallanes,16,16:00 PM,Tuesday,18,Not busy
+Magallanes,17,17:00 PM,Tuesday,41,Moderately busy
+Magallanes,18,18:00 PM,Tuesday,55,Moderately busy
+Magallanes,19,19:00 PM,Tuesday,45,Moderately busy
+Magallanes,20,20:00 PM,Tuesday,23,Not busy
+Magallanes,21,21:00 PM,Tuesday,14,Not busy
+Magallanes,22,22:00 PM,Tuesday,5,Not busy
+Magallanes,5,5:00 AM,Wednesday,9,Not busy
+Magallanes,6,6:00 AM,Wednesday,23,Not busy
+Magallanes,7,7:00 AM,Wednesday,55,Moderately busy
+Magallanes,8,8:00 AM,Wednesday,50,Moderately busy
+Magallanes,9,9:00 AM,Wednesday,27,Not busy
+Magallanes,10,10:00 AM,Wednesday,18,Not busy
+Magallanes,11,11:00 AM,Wednesday,14,Not busy
+Magallanes,12,12:00 PM,Wednesday,23,Not busy
+Magallanes,13,13:00 PM,Wednesday,18,Not busy
+Magallanes,14,14:00 PM,Wednesday,14,Not busy
+Magallanes,15,15:00 PM,Wednesday,14,Not busy
+Magallanes,16,16:00 PM,Wednesday,18,Not busy
+Magallanes,17,17:00 PM,Wednesday,41,Moderately busy
+Magallanes,18,18:00 PM,Wednesday,55,Moderately busy
+Magallanes,19,19:00 PM,Wednesday,45,Moderately busy
+Magallanes,20,20:00 PM,Wednesday,23,Not busy
+Magallanes,21,21:00 PM,Wednesday,14,Not busy
+Magallanes,22,22:00 PM,Wednesday,5,Not busy
+Magallanes,5,5:00 AM,Thursday,9,Not busy
+Magallanes,6,6:00 AM,Thursday,22,Not busy
+Magallanes,7,7:00 AM,Thursday,54,Moderately busy
+Magallanes,8,8:00 AM,Thursday,49,Moderately busy
+Magallanes,9,9:00 AM,Thursday,27,Not busy
+Magallanes,10,10:00 AM,Thursday,18,Not busy
+Magallanes,11,11:00 AM,Thursday,13,Not busy
+Magallanes,12,12:00 PM,Thursday,22,Not busy
+Magallanes,13,13:00 PM,Thursday,18,Not busy
+Magallanes,14,14:00 PM,Thursday,13,Not busy
+Magallanes,15,15:00 PM,Thursday,13,Not busy
+Magallanes,16,16:00 PM,Thursday,18,Not busy
+Magallanes,17,17:00 PM,Thursday,40,Moderately busy
+Magallanes,18,18:00 PM,Thursday,54,Moderately busy
+Magallanes,19,19:00 PM,Thursday,45,Moderately busy
+Magallanes,20,20:00 PM,Thursday,22,Not busy
+Magallanes,21,21:00 PM,Thursday,13,Not busy
+Magallanes,22,22:00 PM,Thursday,4,Not busy
+Magallanes,5,5:00 AM,Friday,8,Not busy
+Magallanes,6,6:00 AM,Friday,21,Not busy
+Magallanes,7,7:00 AM,Friday,49,Moderately busy
+Magallanes,8,8:00 AM,Friday,45,Moderately busy
+Magallanes,9,9:00 AM,Friday,25,Not busy
+Magallanes,10,10:00 AM,Friday,16,Not busy
+Magallanes,11,11:00 AM,Friday,12,Not busy
+Magallanes,12,12:00 PM,Friday,21,Not busy
+Magallanes,13,13:00 PM,Friday,16,Not busy
+Magallanes,14,14:00 PM,Friday,12,Not busy
+Magallanes,15,15:00 PM,Friday,12,Not busy
+Magallanes,16,16:00 PM,Friday,16,Not busy
+Magallanes,17,17:00 PM,Friday,37,Moderately busy
+Magallanes,18,18:00 PM,Friday,49,Moderately busy
+Magallanes,19,19:00 PM,Friday,41,Moderately busy
+Magallanes,20,20:00 PM,Friday,21,Not busy
+Magallanes,21,21:00 PM,Friday,12,Not busy
+Magallanes,22,22:00 PM,Friday,4,Not busy
+Magallanes,5,5:00 AM,Saturday,5,Not busy
+Magallanes,6,6:00 AM,Saturday,9,Not busy
+Magallanes,7,7:00 AM,Saturday,9,Not busy
+Magallanes,8,8:00 AM,Saturday,14,Not busy
+Magallanes,9,9:00 AM,Saturday,19,Not busy
+Magallanes,10,10:00 AM,Saturday,23,Not busy
+Magallanes,11,11:00 AM,Saturday,28,Not busy
+Magallanes,12,12:00 PM,Saturday,37,Moderately busy
+Magallanes,13,13:00 PM,Saturday,42,Moderately busy
+Magallanes,14,14:00 PM,Saturday,42,Moderately busy
+Magallanes,15,15:00 PM,Saturday,42,Moderately busy
+Magallanes,16,16:00 PM,Saturday,42,Moderately busy
+Magallanes,17,17:00 PM,Saturday,37,Moderately busy
+Magallanes,18,18:00 PM,Saturday,37,Moderately busy
+Magallanes,19,19:00 PM,Saturday,32,Moderately busy
+Magallanes,20,20:00 PM,Saturday,23,Not busy
+Magallanes,21,21:00 PM,Saturday,14,Not busy
+Magallanes,22,22:00 PM,Saturday,9,Not busy
+Magallanes,5,5:00 AM,Sunday,4,Not busy
+Magallanes,6,6:00 AM,Sunday,8,Not busy
+Magallanes,7,7:00 AM,Sunday,8,Not busy
+Magallanes,8,8:00 AM,Sunday,11,Not busy
+Magallanes,9,9:00 AM,Sunday,15,Not busy
+Magallanes,10,10:00 AM,Sunday,19,Not busy
+Magallanes,11,11:00 AM,Sunday,23,Not busy
+Magallanes,12,12:00 PM,Sunday,30,Not busy
+Magallanes,13,13:00 PM,Sunday,34,Moderately busy
+Magallanes,14,14:00 PM,Sunday,34,Moderately busy
+Magallanes,15,15:00 PM,Sunday,34,Moderately busy
+Magallanes,16,16:00 PM,Sunday,34,Moderately busy
+Magallanes,17,17:00 PM,Sunday,30,Not busy
+Magallanes,18,18:00 PM,Sunday,30,Not busy
+Magallanes,19,19:00 PM,Sunday,26,Not busy
+Magallanes,20,20:00 PM,Sunday,19,Not busy
+Magallanes,21,21:00 PM,Sunday,11,Not busy
+Magallanes,22,22:00 PM,Sunday,8,Not busy
+Taft Avenue,5,5:00 AM,Monday,12,Not busy
+Taft Avenue,6,6:00 AM,Monday,30,Not busy
+Taft Avenue,7,7:00 AM,Monday,72,Busy
+Taft Avenue,8,8:00 AM,Monday,66,Busy
+Taft Avenue,9,9:00 AM,Monday,36,Moderately busy
+Taft Avenue,10,10:00 AM,Monday,24,Not busy
+Taft Avenue,11,11:00 AM,Monday,18,Not busy
+Taft Avenue,12,12:00 PM,Monday,30,Not busy
+Taft Avenue,13,13:00 PM,Monday,24,Not busy
+Taft Avenue,14,14:00 PM,Monday,18,Not busy
+Taft Avenue,15,15:00 PM,Monday,18,Not busy
+Taft Avenue,16,16:00 PM,Monday,24,Not busy
+Taft Avenue,17,17:00 PM,Monday,54,Moderately busy
+Taft Avenue,18,18:00 PM,Monday,72,Busy
+Taft Avenue,19,19:00 PM,Monday,60,Moderately busy
+Taft Avenue,20,20:00 PM,Monday,30,Not busy
+Taft Avenue,21,21:00 PM,Monday,18,Not busy
+Taft Avenue,22,22:00 PM,Monday,6,Not busy
+Taft Avenue,5,5:00 AM,Tuesday,14,Not busy
+Taft Avenue,6,6:00 AM,Tuesday,34,Moderately busy
+Taft Avenue,7,7:00 AM,Tuesday,82,Busy
+Taft Avenue,8,8:00 AM,Tuesday,75,Busy
+Taft Avenue,9,9:00 AM,Tuesday,41,Moderately busy
+Taft Avenue,10,10:00 AM,Tuesday,27,Not busy
+Taft Avenue,11,11:00 AM,Tuesday,20,Not busy
+Taft Avenue,12,12:00 PM,Tuesday,34,Moderately busy
+Taft Avenue,13,13:00 PM,Tuesday,27,Not busy
+Taft Avenue,14,14:00 PM,Tuesday,20,Not busy
+Taft Avenue,15,15:00 PM,Tuesday,20,Not busy
+Taft Avenue,16,16:00 PM,Tuesday,27,Not busy
+Taft Avenue,17,17:00 PM,Tuesday,61,Busy
+Taft Avenue,18,18:00 PM,Tuesday,82,Busy
+Taft Avenue,19,19:00 PM,Tuesday,68,Busy
+Taft Avenue,20,20:00 PM,Tuesday,34,Moderately busy
+Taft Avenue,21,21:00 PM,Tuesday,20,Not busy
+Taft Avenue,22,22:00 PM,Tuesday,7,Not busy
+Taft Avenue,5,5:00 AM,Wednesday,14,Not busy
+Taft Avenue,6,6:00 AM,Wednesday,34,Moderately busy
+Taft Avenue,7,7:00 AM,Wednesday,82,Busy
+Taft Avenue,8,8:00 AM,Wednesday,75,Busy
+Taft Avenue,9,9:00 AM,Wednesday,41,Moderately busy
+Taft Avenue,10,10:00 AM,Wednesday,27,Not busy
+Taft Avenue,11,11:00 AM,Wednesday,20,Not busy
+Taft Avenue,12,12:00 PM,Wednesday,34,Moderately busy
+Taft Avenue,13,13:00 PM,Wednesday,27,Not busy
+Taft Avenue,14,14:00 PM,Wednesday,20,Not busy
+Taft Avenue,15,15:00 PM,Wednesday,20,Not busy
+Taft Avenue,16,16:00 PM,Wednesday,27,Not busy
+Taft Avenue,17,17:00 PM,Wednesday,61,Busy
+Taft Avenue,18,18:00 PM,Wednesday,82,Busy
+Taft Avenue,19,19:00 PM,Wednesday,68,Busy
+Taft Avenue,20,20:00 PM,Wednesday,34,Moderately busy
+Taft Avenue,21,21:00 PM,Wednesday,20,Not busy
+Taft Avenue,22,22:00 PM,Wednesday,7,Not busy
+Taft Avenue,5,5:00 AM,Thursday,13,Not busy
+Taft Avenue,6,6:00 AM,Thursday,33,Moderately busy
+Taft Avenue,7,7:00 AM,Thursday,80,Busy
+Taft Avenue,8,8:00 AM,Thursday,74,Busy
+Taft Avenue,9,9:00 AM,Thursday,40,Moderately busy
+Taft Avenue,10,10:00 AM,Thursday,27,Not busy
+Taft Avenue,11,11:00 AM,Thursday,20,Not busy
+Taft Avenue,12,12:00 PM,Thursday,33,Moderately busy
+Taft Avenue,13,13:00 PM,Thursday,27,Not busy
+Taft Avenue,14,14:00 PM,Thursday,20,Not busy
+Taft Avenue,15,15:00 PM,Thursday,20,Not busy
+Taft Avenue,16,16:00 PM,Thursday,27,Not busy
+Taft Avenue,17,17:00 PM,Thursday,60,Moderately busy
+Taft Avenue,18,18:00 PM,Thursday,80,Busy
+Taft Avenue,19,19:00 PM,Thursday,67,Busy
+Taft Avenue,20,20:00 PM,Thursday,33,Moderately busy
+Taft Avenue,21,21:00 PM,Thursday,20,Not busy
+Taft Avenue,22,22:00 PM,Thursday,7,Not busy
+Taft Avenue,5,5:00 AM,Friday,12,Not busy
+Taft Avenue,6,6:00 AM,Friday,31,Moderately busy
+Taft Avenue,7,7:00 AM,Friday,74,Busy
+Taft Avenue,8,8:00 AM,Friday,68,Busy
+Taft Avenue,9,9:00 AM,Friday,37,Moderately busy
+Taft Avenue,10,10:00 AM,Friday,25,Not busy
+Taft Avenue,11,11:00 AM,Friday,19,Not busy
+Taft Avenue,12,12:00 PM,Friday,31,Moderately busy
+Taft Avenue,13,13:00 PM,Friday,25,Not busy
+Taft Avenue,14,14:00 PM,Friday,19,Not busy
+Taft Avenue,15,15:00 PM,Friday,19,Not busy
+Taft Avenue,16,16:00 PM,Friday,25,Not busy
+Taft Avenue,17,17:00 PM,Friday,56,Moderately busy
+Taft Avenue,18,18:00 PM,Friday,74,Busy
+Taft Avenue,19,19:00 PM,Friday,62,Busy
+Taft Avenue,20,20:00 PM,Friday,31,Moderately busy
+Taft Avenue,21,21:00 PM,Friday,19,Not busy
+Taft Avenue,22,22:00 PM,Friday,6,Not busy
+Taft Avenue,5,5:00 AM,Saturday,7,Not busy
+Taft Avenue,6,6:00 AM,Saturday,14,Not busy
+Taft Avenue,7,7:00 AM,Saturday,14,Not busy
+Taft Avenue,8,8:00 AM,Saturday,21,Not busy
+Taft Avenue,9,9:00 AM,Saturday,28,Not busy
+Taft Avenue,10,10:00 AM,Saturday,35,Moderately busy
+Taft Avenue,11,11:00 AM,Saturday,42,Moderately busy
+Taft Avenue,12,12:00 PM,Saturday,56,Moderately busy
+Taft Avenue,13,13:00 PM,Saturday,63,Busy
+Taft Avenue,14,14:00 PM,Saturday,63,Busy
+Taft Avenue,15,15:00 PM,Saturday,63,Busy
+Taft Avenue,16,16:00 PM,Saturday,63,Busy
+Taft Avenue,17,17:00 PM,Saturday,56,Moderately busy
+Taft Avenue,18,18:00 PM,Saturday,56,Moderately busy
+Taft Avenue,19,19:00 PM,Saturday,49,Moderately busy
+Taft Avenue,20,20:00 PM,Saturday,35,Moderately busy
+Taft Avenue,21,21:00 PM,Saturday,21,Not busy
+Taft Avenue,22,22:00 PM,Saturday,14,Not busy
+Taft Avenue,5,5:00 AM,Sunday,6,Not busy
+Taft Avenue,6,6:00 AM,Sunday,11,Not busy
+Taft Avenue,7,7:00 AM,Sunday,11,Not busy
+Taft Avenue,8,8:00 AM,Sunday,17,Not busy
+Taft Avenue,9,9:00 AM,Sunday,23,Not busy
+Taft Avenue,10,10:00 AM,Sunday,28,Not busy
+Taft Avenue,11,11:00 AM,Sunday,34,Moderately busy
+Taft Avenue,12,12:00 PM,Sunday,45,Moderately busy
+Taft Avenue,13,13:00 PM,Sunday,51,Moderately busy
+Taft Avenue,14,14:00 PM,Sunday,51,Moderately busy
+Taft Avenue,15,15:00 PM,Sunday,51,Moderately busy
+Taft Avenue,16,16:00 PM,Sunday,51,Moderately busy
+Taft Avenue,17,17:00 PM,Sunday,45,Moderately busy
+Taft Avenue,18,18:00 PM,Sunday,45,Moderately busy
+Taft Avenue,19,19:00 PM,Sunday,39,Moderately busy
+Taft Avenue,20,20:00 PM,Sunday,28,Not busy
+Taft Avenue,21,21:00 PM,Sunday,17,Not busy
+Taft Avenue,22,22:00 PM,Sunday,11,Not busy
