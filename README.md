@@ -12,7 +12,7 @@ A React Native app that helps Filipino MRT-3 commuters check crowd busyness by s
 
 ## Demo
 
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=PLACEHOLDER)
+[Watch the demo on YouTube](https://www.youtube.com/shorts/mjgAK7CumM0)
 
 ---
 
